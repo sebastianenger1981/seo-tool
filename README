@@ -1,34 +1,32 @@
 Last Update: 2022-03-29 (optimized Links)
 
-<h1><strong>Seo Tool: AI Autoblogger for ArtikelSchreiber.com and UNAIQUE.net</strong></h1>
+Seo Tool: AI Autoblogger for ArtikelSchreiber.com and UNAIQUE.net
 
 Function: Create Minisite based on Config File on your server
 
-<ol>
-<li> Use a Shared Hosting Server</li>
-<li>Change the "seo-marketing-tool.conf" config to fit your needs (eg: Create a Mini Site about "Cars" then change the AI Software API Keywords to "car")</li>
-<li>Start the Tool "python3 seo-marketing-tool.py"</li>
-<li>Your mini site will be created on your Shared Hosting Server</li>
-</ol>
-  
+
+1.) Use a Shared Hosting Server
+2.) Change the "seo-marketing-tool.conf" config to fit your needs (eg: Create a Mini Site about "Cars" then change the AI Software API Keywords to "car")
+3.) Start the Tool "python3 seo-marketing-tool.py"
+4.) Your mini site will be created on your Shared Hosting Server
+
 HTML5 Templates are included to create Mini Site on the fly - Please keep my links to artikelschreiber.com, unaique.net, unaique.com left intact on the templates. 
 
 More of my projects can be found here:
 
-<ol>
-<li>https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com</li>
-<li>https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com</li>
-<li>https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com</li>
-<li>https://www.freearticle1.net/ - Free Text: Write free article by AI | FreeArticle1.net</li>
-<li>https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com</li>
-<li>https://www.schreiben1.com/ - Schreiben für Artikel, Blog, Vlog, Business & Sales | Schreiben1.com</li>
-<li>https://buzzerstar.com/ - Kreiere: Schreibe tollen Text & Artikel | BuzzerStar.com</li>
-  <li>https://www.artikelschreiber.com/en/</li>
-  <li>https://www.unaique.net/en/</li>
-  <li>https://www.unaique.net/</li>
-  <li>https://www.unaique.com/</li>
-  <li>https://rechthaben.net/</li>
-  <li>https://www.entrepreneur1.net/</li>
-  <li>https://www.paraphrase1.com/</li>
-  <li>https://www.entrepreneurship1.com/</li>
-<ol>
+https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com
+https://www.paraphrasingtool1.com/ - Paraphrasing Tool: Paraphrase & Rewriter | AI by ParaphrasingTool1.com
+https://www.articlerewriter1.com/ - Article Rewriter: Your No. 1 Rewriter Tool | ArticleRewriter1.com
+https://www.freearticle1.net/ - Free Text: Write free article by AI | FreeArticle1.net
+https://www.artikelschreiben.com/ - Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com
+https://www.schreiben1.com/ - Schreiben für Artikel, Blog, Vlog, Business & Sales | Schreiben1.com
+https://buzzerstar.com/ - Kreiere: Schreibe tollen Text & Artikel | BuzzerStar.com
+https://www.artikelschreiber.com/en/ - SEO Tool: Write an article for digital marketing | ArtikelSchreiber.com
+https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET
+https://www.unaique.net/ - Marketing: Copywriter für Seo Text & Content mit KI | UNAIQUE.NET 
+https://www.unaique.com/ - UNAIQUE LCC
+https://rechthaben.net/ - Grundrechte und BGB | RechtHaben.net
+https://www.entrepreneur1.net/ - Tools for Entrepreneur, Entrepre & Intrapreneur | entrepreneur1.net
+https://www.paraphrase1.com/ - Paraphrase: Your rewriter tool for rephrase & paraphraser | Paraphrase1.com
+https://www.entrepreneurship1.com/ - Entrepreneurship: Tools for Entrepreneurs & entrepre | Entrepreneurship1.com
+
