@@ -3,6 +3,9 @@
 	<head>
 		<title>{title}</title>
 		<meta charset="UTF-8" />
+		<meta http-equiv="Cache-control" content="public" />
+		<meta name="yandex-verification" content="" />
+		<meta name="p:domain_verify" content="" />
 		
 		<link rel="preload" href="{my_www_domain}/css/p.css" as="style" crossorigin />
 		<link rel="preload" href="{my_www_domain}/css/s.css" as="style" crossorigin />
@@ -25,7 +28,11 @@
 		<meta property="og:sitename" content="{my_www_domain}" />
 		<meta property="og:locale" content="en_EN" />
 		<meta property="og:type" content="Website" />
-
+		<meta property="og:image:type" content="image/png" />
+		<meta property="og:image:width" content="256" />
+		<meta property="og:image:height" content="256" />
+		<meta property="og:image:alt" content="{title}" />
+		
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@..." />
 		<meta name="twitter:title" content="{title}" />
@@ -39,7 +46,9 @@
 		<link rel="icon" type="image/png" sizes="32x32" href="{my_www_domain}/images/favicon-32x32.png" />
 		<link href="{my_www_domain}/images/apple-icon-200x200.png" rel="apple-touch-icon" />
 		<link rel="canonical" href="{my_www_domain}" />
-
+		<link rel="alternate" hreflang="en" href="{my_www_domain}" />
+		<link rel="alternate" href="{my_www_domain}" hreflang="x-default" />
+		
 		<link href="{my_www_domain}/css/p.css" rel="stylesheet" media="all" />
 		<link href="{my_www_domain}/css/s.css" rel="stylesheet" media="all" />
 		</head>
@@ -134,8 +143,8 @@
 							<li>✅ helps you to build up reach</li>
 							<li>✅ increase seo visibility</li>
 						</ul>
-						<a href="https://www.unaique.net/" target="_blank" hreflang="de" title="Marketing: Copywriter für Seo Text & Content mit KI | www.unaique.net">Marketing: Copywriter</a> &nbsp;-&nbsp;
-						<a href="https://www.artikelschreiber.com/" target="_blank" hreflang="de" title="Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com">artikelschreiber.com</a> &nbsp;-&nbsp;
+						<b><strong><a href="https://www.unaique.net/" target="_blank" hreflang="de" title="Marketing: Copywriter für Seo Text & Content mit KI | www.unaique.net">Marketing: Copywriter</a></strong></b> &nbsp;-&nbsp;
+						<b><strong><a href="https://www.artikelschreiber.com/" target="_blank" hreflang="de" title="Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com">artikelschreiber.com</a></strong></b> &nbsp;-&nbsp;
 						<a href="https://www.artikelschreiber.com/en/" target="_blank" hreflang="en" title="SEO Tool: Write an article for digital marketing | ArtikelSchreiber.com">SEO Tool: Write an article</a>&nbsp;-&nbsp;
 						<a href="https://www.artikelschreiber.com/marketing/" target="_blank" hreflang="en" title="Marketing: Business & Tools">Marketing: Business & Tools</a> &nbsp;-&nbsp;
 						<a href="https://rechthaben.net/" target="_blank" hreflang="de" title="Grundrechte & BGB | RechtHaben.net  Dem deutschen Volke! Wacht auf! Wehrt euch!">Recht Haben</a>&nbsp;-&nbsp;
@@ -145,16 +154,26 @@
 						<br /><br />
 						<a href="https://www.articlerewriter1.com/" hreflang="en" title="SEO Tool: Write an article for digital marketing | ArtikelSchreiber.com"> Article Rewriter </a>
 						&nbsp;-&nbsp;				
-						<a  href="https://www.paraphrasingtool1.com/" hreflang="en" title="Paraphrasing Tool: Your No. 1 free Paraphrase Tool | ParaphrasingTool1.com"> Paraphrasing Tool: Paraphrase </a>
+						<a href="https://www.paraphrasingtool1.com/" hreflang="en" title="Paraphrasing Tool: Your No. 1 free Paraphrase Tool | ParaphrasingTool1.com"> Paraphrasing Tool: Paraphrase </a>
 						&nbsp;-&nbsp;				
-						<a  href="https://www.freearticle1.net/" hreflang="en" title="Free Text: Write free article by AI | FreeArticle1.net"> Write free article </a>
+						<a href="https://www.freearticle1.net/" hreflang="en" title="Free Text: Write free article by AI | FreeArticle1.net"> Write free article </a>
 						&nbsp;-&nbsp;				
-						<a  href="https://www.artikelschreiben.com/" hreflang="de" title="Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com"> Artikel schreiben </a>
+						<a href="https://www.artikelschreiben.com/" hreflang="de" title="Artikel schreiben: Für Text, Blog, Vlog schreiben | ArtikelSchreiben.com"> Artikel schreiben </a>
 						&nbsp;-&nbsp;				
-						<a  href="https://www.schreiben1.com/" hreflang="de" title="Schreiben für Artikel, Blog, Vlog, Business & Sales | Schreiben1.com"> Schreiben für Artikel </a>
+						<a href="https://www.schreiben1.com/" hreflang="de" title="Schreiben für Artikel, Blog, Vlog, Business & Sales | Schreiben1.com"> Schreiben für Artikel </a>
 						&nbsp;-&nbsp;				
 						<a  href="https://buzzerstar.com/" hreflang="de" title="Kreiere: Schreibe tollen Text & Artikel | BuzzerStar.com"> Kreiere: Schreibe tollen Text </a>
-						
+						&nbsp;-&nbsp;	
+						<a href="https://www.artikelschreiber.com/de/blog/" target="_blank" hreflang="de">Blog</a>
+						<br /><br />
+						<a href="https://www.unaique.net/blog/" target="_blank" hreflang="de" title="KI Blog">KI Blog</a>
+						&nbsp;-&nbsp;
+						<a href="https://www.entrepreneurship1.com/" target="_blank" hreflang="en" title="Entrepreneurship: Tools for Entrepreneurs & entrepre | Entrepreneurship1.com">Entrepreneurship: Tools</a>
+						&nbsp;-&nbsp;	
+						<a href="https://www.entrepreneur1.net/" target="_blank" hreflang="en" title="Tools for Entrepreneur, Entrepre & Intrapreneur | entrepreneur1.net">Tools for Entrepreneur</a>
+						&nbsp;-&nbsp;	
+						<a href="https://www.paraphrase1.com/" target="_blank" hreflang="en" title="Paraphrase: Your rewriter tool for rephrase & paraphraser | Paraphrase1.com">Paraphrase: Your rewriter tool</a>
+						<br />
 						<h3>Support us with a donation in Crypto, NFT or Cryptocurrency:</h3>
 						
 						<h6 style="font-size:14px;">
@@ -179,9 +198,9 @@
 
     <!-- Scroll top -->
     <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
-		<script src="/js/jquery.js"></script>
-		<script src="/js/plugins.js"></script>
-		<script src="/js/functions.js"></script>
+	<script src="{my_www_domain}/js/jquery.js"></script>
+	<script src="{my_www_domain}/js/plugins.js"></script>
+	<script src="{my_www_domain}/js/functions.js"></script>
 
 	<script async src="https://www.googletagmanager.com/gtag/js?id={google_analytics_id}"></script>
 	<script>

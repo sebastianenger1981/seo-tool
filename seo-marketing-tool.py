@@ -15,7 +15,7 @@ print("## by Sebastian Enger, M.Sc.              ##")
 print("## Web: https://www.artikelschreiber.com/ ##")
 print("## Web: https://www.unaique.com/          ##")
 print("## Web: https://www.unaique.net/          ##")
-print("## Version vom: 27.2.2022 - 1.4.1.1       ##")
+print("## Version vom: 01.4.2022 - 1.4.1.2       ##")
 print("###############################################")
 
 project_path = "/home/seo-marketing-tool"
