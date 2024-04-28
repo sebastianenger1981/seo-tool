@@ -1,0 +1,337 @@
+#source: https://www.cherada.net/help/100718-list-of-stop-words-that-prevent-adsense-ads-to-show.html
+#Death – Occurance
+death
+decesased
+demise
+dying
+expire
+fatal stroke
+past away
+perished
+#Death – Method
+drown
+drowned
+electrocuted
+electrocution
+execution
+killed
+killer
+manslaughter
+miscarriage
+murder
+murderer
+murdered
+poisoned
+poisoning
+slaughtered
+strangler
+strangulation
+suffocation
+suicide
+#Death – Associated
+burial
+casket
+funeral
+#Drugs – Associated
+cocaine
+drugs
+heroin
+marijuana
+medication
+morphine
+overdose
+oxycodone
+oxycontin
+pharmaceutical
+pharmacy
+#Medical crisis
+abortion
+aneurysm
+burn
+crash
+cancer
+cerebral accident
+desanguinated
+disfigured
+embolism
+hemorrhage
+horror
+maimed
+paralyzed
+stroke
+#Profanity
+#Words you won’t say on TV
+shit
+piss
+fuck
+cunt
+mother fucker
+tits
+erection
+masturbation
+pedophile
+penis
+pussy
+schlong
+xxx
+porn
+pädo
+pädophil
+pedo
+pedophil
+#Other Suspects
+attack
+bomb
+bomber
+incarcerated
+jail
+prison
+terrorist
+casino
+gambling
+las vegas
+poker
+#Additional - https://support.google.com/adsense/answer/164131?hl=en
+birth control
+abortion
+body modification
+lending
+loan
+anti-virus
+file converter
+driver updater
+system cleaners
+download manager
+disk defragmenter
+codec
+browser toolbar
+ringtone
+screensaver
+wallpaper
+multi-level
+election
+protest
+terrorist attack
+terrorist
+attack
+conflict
+sexually
+celebrity arrest
+arrest
+death
+gambling
+poker
+slot
+bingo
+lotteries
+lottery
+betting
+casino game
+weight loss
+dieting
+Hook-up
+nrmp
+nrmp residency
+pistol
+vagina
+anus
+genital
+fuck
+gun
+shogun
+prostitude
+bitch
+muertos
+muerto
+muerta
+death
+corpse
+casino
+gamling
+poker
+drug
+porn
+pussy
+murder
+kill
+masturbate
+masturbation
+erection
+prison
+cancer
+marijuana
+fetish
+grenade
+suicide
+execution
+genital
+sexual
+heroin
+pharmacy
+orgy
+schlong
+crash
+cocaine
+disease
+epidemic
+electric chair
+drowned
+bullshit
+fuck
+cunt
+motherfucker
+bitch
+hoe
+fick
+ficken
+porno
+hure
+whore
+drogen
+wichsen
+runterholen
+rape
+vergewalt
+hentai
+crack
+warez
+moviez
+streaming
+stream
+illegal
+fucker
+cock
+dick
+bitch
+bastard
+beastial
+beastiality
+bestial
+bestiality
+cunt
+cum
+ejaculate
+ejaculated
+ejaculates
+ejaculating
+ejaculatings
+ejaculation
+ejakulate
+gay
+lesbian
+hardcore
+pron
+orgasm
+torture
+xxx
+creampie
+#Blog Backend - https://www.artikelschreiber.com/
+cock
+blowjob
+nude
+attack
+bomb
+military
+militär
+russia
+rußland
+russland
+krieg
+Putin
+Hitler
+Ukraine
+Trump
+covid
+corona
+vax
+vaxx
+vaccination
+impfung
+rape
+suck
+porn
+fuck
+cum
+tits
+pharma
+casino
+illegal
+shit
+anal
+drugs
+crypto
+incest
+#Casino related - https://www.artikelschreiber.com/
+gambling
+gamble
+casino
+lottery
+bookmaking
+blackjack
+poker
+roulette
+cassino
+card game
+jackpot
+free slots
+slot
+golden nugget
+bet
+bets
+betting
+powerball
+mega million
+eurojackpot
+sportsbook
+monopoly
+doll
+preteen
+black friday
+Zoophil
+philia
+# Extra added, political nonsens
+fascism
+transgender
+gender
+lgbt
+lgbtq
+LGBTQIA
+propaganda
+woke
+woke culture
+freemason
+illuminati
+CIA
+NSA
+FBI
+Mossad
+BND
+Nazi
+Nationalsozialist
+Zionist
+Mafia
+hitman
+votze
+milf
+intercourse
+copyright
+plagarism
+plagscan
+copyscrape
+secret service
+biden
+masonic
+epstein
+iptv
+phobia
+election
+hoax
+climat hoax
+hass
+klima-ideologie
+ideologie
+sacrifice
+ukraine
+escort
+sexworker
+shemale

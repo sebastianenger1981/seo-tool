@@ -1,0 +1,14 @@
+captcha
+bot-message
+Robot or human
+Captcha()
+captcha.js
+confirm that you’re human
+reCAPTCHA
+I am a human
+Ich bin kein Roboter
+data-sitekey
+ReCAPTCHA implementation
+recaptcha-error
+recaptcha-error-message
+g-recaptcha-response

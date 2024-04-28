@@ -1,0 +1,3 @@
+# apt-get install gunicorn
+killall gunicorn
+/usr/local/bin/gunicorn app3:app --name=asgi -k uvicorn.workers.UvicornH11Worker --workers=## --user=root --group=root --bind=unix:///home/unaique/FlaskApp/gunicorn.sock --log-level=debug --log-file=/home/unaique/FlaskApp/gunicorn.log --threads=## --timeout=## --graceful-timeout=## --max-requests=## --max-requests-jitter=## --worker-tmp-dir=/home/unaique/FlaskApp/gunicorn_heartbeat/ --reload-engine=auto --access-logfile=/home/unaique/FlaskApp/gunicorn_access.log --error-logfile=/home/unaique/FlaskApp/gunicorn_error.log --log-file=/home/unaique/FlaskApp/gunicorn_normallogfile.log
