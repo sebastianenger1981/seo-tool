@@ -1,21 +1,15 @@
-Last Update: 2024-04-28
-        Release: Development code for the predecessor of the free SaaS tool ArtikelSchreiber.com
-        Release: Production code for ArtikelSchreiber.com and Unaique.net from June of 2023
+<h1>Seo Tool: AI Autoblogger and full Source Code for ArtikelSchreiber.com and UNAIQUE.net</h1>
 
-Seo Tool: AI Autoblogger for ArtikelSchreiber.com and UNAIQUE.net
-
-Function: Create Minisite based on Config File on your server
+<b>Function: Create Minisite based on Config File on your server</b>
 
 1.) Use a Shared Hosting Server
 2.) Change the "seo-marketing-tool.conf" config to fit your needs (eg: Create a Mini Site about "Cars" then change the AI Software API Keywords to "car")
 3.) Start the Tool "python3 seo-marketing-tool.py"
 4.) Your mini site will be created on your Shared Hosting Server
 
-HTML5 Templates are included to create Mini Site on the fly - Please keep my links to artikelschreiber.com, unaique.net, unaique.com left intact on the templates. 
+<h3>HTML5 Templates are included to create Mini Site on the fly - Please keep my links to artikelschreiber.com, unaique.net, unaique.com left intact on the templates. </h3>
 
 More of my projects can be found here:
-
-Weitere Projekte:
 
 https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com
 https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com
@@ -65,13 +59,17 @@ https://rechthaben.net/shaef/shaef-strafanzeige/
 https://rechthaben.net/beratung/rundfunkbeitrag/
 https://rechthaben.net/inkasso/sigma-kreditbank/
 
-Freunde:
-https://linktr.ee/textgenerator
-https://muckrack.com/markus-muller
-https://linktr.ee/fachanwalt
-
 https://rechthaben.net/beratung/schufa-score-und-profiling-formel/
 https://rechthaben.net/lifestyle/gedicht-mgtow-men-going-their-own-way/
 https://rechthaben.net/lifestyle/gedicht-your-beautiful-blue-eyes/
 https://rechthaben.net/beratung/feststellung-der-staatsangehoerigkeit/
 https://rechthaben.net/beratung/schufa-score-und-profiling-formel/
+
+Freunde:
+https://linktr.ee/textgenerator
+https://muckrack.com/markus-muller
+https://linktr.ee/fachanwalt
+
+Last Update: 2024-04-28
+Release: Development code for the predecessor of the free SaaS tool ArtikelSchreiber.com
+Release: Production code for ArtikelSchreiber.com and Unaique.net from June of 2023
