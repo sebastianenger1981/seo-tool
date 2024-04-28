@@ -70,10 +70,10 @@ https://linktr.ee/textgenerator
 https://muckrack.com/markus-muller
 https://linktr.ee/fachanwalt
 
-Last Update: 2024-04-28
-Release: Development code for the predecessor of the free SaaS tool ArtikelSchreiber.com
-Release: Production code for ArtikelSchreiber.com and Unaique.net from June of 2023
+Last Update: 2024-04-28<br />
+Release: <b>Development code for the predecessor of the free SaaS tool ArtikelSchreiber.com</b><br />
+Release: <b>Production code for ArtikelSchreiber.com and Unaique.net from June of 2023</b><br />
 
 Note:
-
-If you are using my code, please leave the links to ArtikelSchreiber.com and Unaique.net as backlink on your platform based on my code to honor my work. I was working on ArtikelSchreiber Source Code since 2015 and released the full Frontend and Backend Code in 2023 after putting in more than 7,500 hours of my worktime into my hobby project.
+<br /><b>
+If you are using my code, please leave the links to ArtikelSchreiber.com and Unaique.net as backlink on your platform based on my code to honor my work. I was working on ArtikelSchreiber Source Code since 2015 and released the full Frontend and Backend Code in 2023 after putting in more than 7,500 hours of my worktime into my hobby project.</b>
