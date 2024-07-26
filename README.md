@@ -77,3 +77,40 @@ Release: <b>Production code for ArtikelSchreiber.com and Unaique.net from June o
 Note:
 <br /><b>
 If you are using my code, please leave the links to ArtikelSchreiber.com and Unaique.net as backlink on your platform based on my code to honor my work. I was working on ArtikelSchreiber Source Code since 2015 and released the full Frontend and Backend Code in 2023 after putting in more than 7,500 hours of my worktime into my hobby project.</b>
+
+
+<li role="listitem">
+					<a href="https://de.slideshare.net/slideshow/wie-kann-ich-eine-inkasso-forderung-abwehren-www-unaique-net/270507889" 
+					   rel="follow" 
+					   title="SlideShare: Inkasso Forderung Abwehren">SlideShare: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://de.scribd.com/document/753386955/Wie-Kann-Ich-Eine-Inkasso-Forderung-Abwehren-www-unaique-net" 
+					   rel="follow" 
+					   title="Scribd: Inkasso Forderung Abwehren">Scribd: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://leanpub.com/wie_kann_ich_eine_inkasso_forderung_abwenden/upload" 
+					   rel="follow" 
+					   title="Leanpub: Inkasso Forderung Abwenden">Leanpub: Inkasso Forderung Abwenden</a>
+				</li>
+				<li role="listitem">
+					<a href="https://www.academia.edu/122346756/Wie_kann_ich_eine_Inkasso_Forderung_abwehren_www_unaique_net_" 
+					   rel="follow" 
+					   title="Academia: Inkasso Forderung Abwehren">Academia: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://archive.org/details/2024-07-24-wie-kann-ich-eine-inkasso-forderung-abwehren-www.unaique.net" 
+					   rel="follow" 
+					   title="Internet Archive: Inkasso Forderung Abwehren">Internet Archive: Inkasso Forderung Abwehren</a>
+				</li>
+				<li role="listitem">
+					<a href="https://www.lulu.com/spotlight/sebastianenger" 
+					   rel="follow" 
+					   title="Lulu: Sebastian Enger">Lulu: Sebastian Enger</a>
+				</li>
+				<li role="listitem">
+					<a href="https://issuu.com/sebastianenger/docs/2024-07-24_wie_kann_ich_eine_inkasso_forderung_abw" 
+					   rel="follow" 
+					   title="Issuu: Inkasso Forderung Abwehren">Issuu: Inkasso Forderung Abwehren</a>
+				</li>
