@@ -39,10 +39,10 @@ If you are using my code, please leave the links to ArtikelSchreiber.com and Una
 				<li role="listitem"><a href="https://hs-mittweida.academia.edu/SebastianEnger" rel="follow" title="Academia: Sebastian Enger">Academia: Sebastian Enger</a></li>
 				<li role="listitem"><a href="https://issuu.com/sebastianenger/docs/2024-07-24_wie_kann_ich_eine_inkasso_forderung_abw" rel="follow" title="Issuu: Inkasso Forderung Abwehren">Issuu: Inkasso Forderung Abwehren</a></li>
 
-    <li role="listitem"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912997" rel="follow" title="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912997">SSRN: Paper 4912997</a></li>
-				<li role="listitem"><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963" rel="follow" title="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963">SSRN: Sebastian Enger Profile</a></li>
-				<li role="listitem"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913054" rel="follow" title="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913054">SSRN: Paper 4913054</a></li>
-				<li role="listitem"><a href="https://figshare.com/account/articles/26428090?file=48077377" rel="follow" title="https://figshare.com/account/articles/26428090?file=48077377">Figshare: Article 26428090</a></li>
-				<li role="listitem"><a href="https://figshare.com/authors/Sebastian_Enger/19280587" rel="follow" title="https://figshare.com/authors/Sebastian_Enger/19280587">Figshare: Sebastian Enger Profile</a></li>
-				<li role="listitem"><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963" rel="follow" title="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963">SSRN: Sebastian Enger Profile</a></li>
+<li role="listitem"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912997" rel="follow" title="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912997">SSRN: Paper 4912997</a></li>
+<li role="listitem"><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963" rel="follow" title="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963">SSRN: Sebastian Enger Profile</a></li>
+<li role="listitem"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913054" rel="follow" title="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913054">SSRN: Paper 4913054</a></li>
+<li role="listitem"><a href="https://figshare.com/account/articles/26428090?file=48077377" rel="follow" title="https://figshare.com/account/articles/26428090?file=48077377">Figshare: Article 26428090</a></li>
+<li role="listitem"><a href="https://figshare.com/authors/Sebastian_Enger/19280587" rel="follow" title="https://figshare.com/authors/Sebastian_Enger/19280587">Figshare: Sebastian Enger Profile</a></li>
+<li role="listitem"><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963" rel="follow" title="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6927963">SSRN: Sebastian Enger Profile</a></li>
     
