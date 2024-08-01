@@ -11,11 +11,16 @@
 
 More of my projects can be found here:
 
-https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com
-https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com
-https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.NET 
-https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET
-https://www.artikelschreiben.com/ - Artikel schreiben mit ChatGPT KI
+1.)https://www.artikelschreiber.com/ - Artikel: Text schreiben für Content Marketing | ArtikelSchreiber.com
+
+2.)https://www.artikelschreiber.com/en/ - Article Generator: Write text for Marketing | ArtikelSchreiber.com
+
+3.)https://www.unaique.net/ - Text Generator deutsch - KI Text Generator | UNAIQUE.NET 
+
+4.)https://www.unaique.net/en/ - CopyWriting: Generator for Marketing Content by AI | UNAIQUE.NET
+
+5.)https://www.artikelschreiben.com/ - Artikel schreiben mit ChatGPT KI
+
 
 Last Update: 2024-04-28<br />
 Release: <b>Development code for the predecessor of the free SaaS tool ArtikelSchreiber.com</b><br />
