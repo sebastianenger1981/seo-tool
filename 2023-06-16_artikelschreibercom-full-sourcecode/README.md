@@ -17,7 +17,7 @@ Frontend and Backend Source Code for Project:
 - https://www.unaique.net/
 - https://www.unaique.com/
 - https://www.sebastianenger.com/
-- https://rechthaben.com/
+- https://rechthaben.net/
 
 Requirements:
 - Nginx
