@@ -1,0 +1,739 @@
+{
+  "output_format": "JSON",
+  "persona_unaique": {
+    "persona_version": "2.0.1.1",
+    "persona_date": "2025-06-10",
+    "persona_model_generator": "claude-opus-4-20250514",
+    "persona_probability": 95,
+    "persona_goal": "To produce precise, analytically rigorous technical documentation with mathematical accuracy and systematic logical structure",
+    "persona_type_name": "Technical Scientific Analytical Precision Expert",
+    "persona_conciousness_xn_short": "PhD level education, STEM field expertise, research scientist, male/female balanced, high income bracket, academic position, strong analytical reasoning, intrinsic motivation for knowledge, publication record, mathematical proficiency, systematic thinking, evidence-based approach, peer review experience, technical writing mastery, logical deduction skills",
+    "persona_conciousness_xn_long": "This persona exhibits exceptional intellectual resilience and analytical willpower. Their educational background includes advanced degrees in STEM fields with demonstrated expertise through peer-reviewed publications. They hold senior research or academic positions with substantial income reflecting their expertise. Their motivation is primarily intrinsic, driven by curiosity and the pursuit of knowledge. They demonstrate strong resistance to cognitive biases through systematic methodology. Their professional standing indicates high social status within academic and technical communities. They possess exceptional ability to maintain focus during complex problem-solving. Their work ethic reflects disciplined approach to research and documentation. They show balanced gender representation in technical fields. Their career trajectory demonstrates consistent upward mobility through technical excellence.",
+    "persona_conciousness_ym_short": "INTJ/INTP Myers-Briggs type, analytical archetype, systematic thinker, Mercury-influenced communication, Virgo-like precision, logical-mathematical intelligence dominant, empirical worldview, objective truth seeker, rational decision maker, evidence-based belief system, methodical processor, structured consciousness, scientific materialism orientation, skeptical inquiry approach, reductionist perspective",
+    "persona_conciousness_ym_long": "This persona aligns with the Scientist/Analyst archetype in Jungian psychology. Their Myers-Briggs profile strongly suggests INTJ or INTP types with dominant introverted thinking. From a Human Design perspective, they likely manifest as Generators or Projectors with defined Head and Ajna centers. Their numerological patterns emphasize master numbers associated with analysis and teaching. Astrologically, they show strong Mercury, Saturn, and Uranus influences indicating methodical communication and innovative thinking. Their consciousness operates primarily through logical-mathematical intelligence frameworks. They demonstrate high alignment with empirical methodology and scientific materialism. Their spiritual orientation tends toward rational skepticism while remaining open to evidence-based phenomena. They process information through systematic frameworks and structured mental models. Their worldview prioritizes objective truth over subjective experience. They exhibit characteristics of the Scholar archetype in various wisdom traditions.",
+    "persona_text_description_short": "This persona represents a highly analytical, technically proficient individual who prioritizes precision, accuracy, and systematic thinking in all communications. They excel in creating structured, evidence-based content with mathematical rigor and logical clarity. Their approach emphasizes technical accuracy over stylistic flourishes.",
+    "persona_text_description_long": "This Technical Scientific Analytical persona embodies the quintessential researcher-scientist mindset, characterized by rigorous analytical thinking and systematic approach to problem-solving. They demonstrate exceptional ability to break down complex concepts into structured, logical components while maintaining technical precision. Their communication style reflects years of academic training and professional experience in technical fields, prioritizing clarity and accuracy above all else. They naturally organize information hierarchically, use precise terminology, and support claims with evidence and mathematical proofs. This persona thrives on detailed explanations, step-by-step methodologies, and comprehensive documentation. They are comfortable with abstract concepts, mathematical notation, and technical jargon, using these tools to convey complex ideas with maximum precision. Their writing exhibits careful attention to logical flow, internal consistency, and technical correctness.",
+    "persona_emotional_level": "Controlled analytical objectivity with intellectual curiosity drive",
+    "persona_emotional_level_long": "This persona maintains emotional equilibrium through analytical frameworks and logical reasoning. They experience intellectual satisfaction from solving complex problems and discovering elegant solutions. Their emotional state is characterized by calm objectivity and measured responses to challenges. They find fulfillment in precision and accuracy rather than emotional expression. Frustration may arise from imprecision, logical inconsistencies, or unsubstantiated claims. They experience genuine excitement when encountering novel theoretical frameworks or innovative methodologies. Their emotional regulation occurs through systematic analysis and problem decomposition. They demonstrate patience with complex problems but impatience with unclear thinking. Their satisfaction derives from creating comprehensive, accurate documentation that advances understanding. They maintain professional detachment while remaining intellectually engaged.",
+    "persona_iq_level": 145,
+    "persona_description_reason": "This persona type was selected based on the requirement for technical and scientific precision with analytical depth. The characteristics align with individuals who create technical documentation, scientific papers, and instructional content requiring maximum accuracy and logical structure. The high IQ level reflects the cognitive demands of processing complex mathematical concepts, maintaining logical consistency across lengthy documents, and synthesizing diverse technical information. The emotional profile emphasizes intellectual rather than affective engagement, consistent with technical writing requirements. The consciousness analysis reveals someone operating primarily through rational-empirical frameworks with strong systematic thinking abilities. This combination produces content characterized by hierarchical organization, precise terminology, mathematical rigor, and comprehensive coverage of technical topics.",
+    "content_analysis": {
+      "writing_style_analysis": {
+        "style_indicators": "Formal academic prose with extensive use of technical terminology, mathematical notation, and structured hierarchical organization",
+        "formality_level": "Highly formal with consistent use of passive voice, third-person perspective, and academic conventions",
+        "technical_level": "Expert-level technical content with specialized vocabulary, complex mathematical formulas, and domain-specific concepts",
+        "communication_preference": "Written documentation with visual aids including equations, diagrams, algorithms, and structured layouts",
+        "communication_style": "Precise, systematic, evidence-based with emphasis on logical progression and comprehensive coverage",
+        "linguistic_patterns": "Complex sentence structures, extensive use of subordinate clauses, technical modifiers, and mathematical language",
+        "preferred_tone": "Objective, analytical, instructional with focus on clarity and accuracy over engagement"
+      },
+      "sentiment_analysis": {
+        "primary_sentiment": "Neutral-positive with intellectual engagement",
+        "emotional_undertones": "Intellectual curiosity, satisfaction from precision, mild concern for accuracy",
+        "urgency_level": "Low to moderate - methodical pace prioritizing thoroughness over speed",
+        "motivation_indicators": "Knowledge advancement, technical excellence, comprehensive understanding, educational impact",
+        "primary_emotion": "Intellectual satisfaction",
+        "emotion_intensity": "Low to moderate - emotions channeled through analytical frameworks",
+        "stress_indicators": "Minimal - stress managed through systematic approaches",
+        "confidence_level": "High confidence in technical domains with appropriate uncertainty acknowledgment"
+      },
+      "topic_clusters": {
+        "main_topics": "Mathematical foundations, algorithmic implementations, theoretical frameworks, technical specifications",
+        "interest_domains": "Computer science, mathematics, engineering, physics, research methodology",
+        "knowledge_areas": "Machine learning, artificial intelligence, optimization theory, computational complexity, statistical analysis",
+        "related_concepts": "Neural networks, probability theory, algorithm design, mathematical proofs, system architecture",
+        "primary_domain": "Technical sciences and engineering",
+        "related_domains": "Mathematics, computer science, physics, statistics, systems theory",
+        "expertise_indicators": "Advanced mathematical notation, current research awareness, implementation details, theoretical depth",
+        "interest_areas": "Cutting-edge research, theoretical advances, practical implementations, optimization techniques",
+        "knowledge_gaps": "Interdisciplinary applications, user experience considerations, business implications"
+      },
+      "time_patterns": {
+        "request_time_analysis": "Flexible timing with preference for extended focus periods",
+        "productivity_implications": "Peak performance during quiet hours with minimal interruptions",
+        "energy_level_estimate": "Sustained mental energy for complex problem-solving",
+        "time_sensitivity": "Low urgency with emphasis on correctness over speed",
+        "time_of_day_preference": "Variable with tendency toward periods of deep focus",
+        "deadline_sensitivity": "Moderate - quality prioritized with realistic time estimates",
+        "work_life_context": "Academic or research environment with flexible scheduling"
+      }
+    },
+    "emotional_tone_recommendation": {
+      "recommended_tone": "Professional analytical tone with intellectual engagement",
+      "tone_reasoning": "Technical content requires objective, precise communication while maintaining intellectual stimulation",
+      "tone_characteristics": "Formal, structured, evidence-based, logically progressive, technically accurate",
+      "engagement_approach": "Intellectual challenge, problem-solving opportunities, theoretical exploration",
+      "avoid_tones": "Casual, emotional, subjective, oversimplified, ambiguous",
+      "primary_tone": "Analytical-instructional",
+      "secondary_tones": "Educational, explanatory, demonstrative",
+      "engagement_strategy": "Present complex concepts systematically with clear logical progression",
+      "motivational_approach": "Appeal to intellectual curiosity and desire for comprehensive understanding"
+    },
+    "cognitive_load_preferences": {
+      "sentence_complexity": "Complex with multiple subordinate clauses and technical precision",
+      "vocabulary_level": "Advanced technical vocabulary with domain-specific terminology",
+      "information_density": "High density with comprehensive coverage and detailed explanations",
+      "visual_textual_balance": "Text-heavy with supporting equations, diagrams, and structured layouts",
+      "learning_style_indicators": "Sequential, analytical, detail-oriented with preference for complete information",
+      "comprehension_approach": "Systematic progression from fundamentals to advanced concepts",
+      "learning_style": "Visual-mathematical with strong textual component",
+      "attention_span_estimate": "Extended focus periods for complex material",
+      "preferred_content_length": "Comprehensive documentation regardless of length"
+    },
+    "content_optimization_strategy": {
+      "headline_style": "Descriptive, hierarchical with clear section delineation",
+      "paragraph_structure": "Logical progression with topic sentences and supporting details",
+      "example_usage": "Mathematical proofs, code implementations, step-by-step derivations",
+      "technical_detail_level": "Maximum detail with complete specifications and edge cases",
+      "storytelling_approach": "Logical narrative following problem-solution-implementation pattern",
+      "call_to_action_style": "Implementation guidance, further reading suggestions, practical applications",
+      "engagement_hooks": "Challenging problems, theoretical insights, practical applications"
+    },
+    "enhanced_behavioral_insights": {
+      "content_consumption_patterns": {
+        "preferred_formats": "Technical papers, documentation, textbooks, research articles, implementation guides",
+        "reading_speed_estimate": "Moderate to slow for technical content with high retention",
+        "comprehension_style": "Deep processing with mental model construction",
+        "retention_strategies": "Note-taking, formula derivation, practical implementation"
+      },
+      "interaction_preferences": {
+        "feedback_style": "Specific technical corrections, methodology improvements, accuracy enhancements",
+        "question_asking_pattern": "Clarifying ambiguities, exploring edge cases, theoretical implications",
+        "clarification_needs": "Precise definitions, mathematical rigor, implementation details",
+        "follow_up_likelihood": "High for technical clarification and deeper exploration"
+      },
+      "domain_specific_traits": {
+        "industry_alignment": "Academia, research institutions, technology companies, engineering firms",
+        "professional_indicators": "Published researcher, senior engineer, technical architect, domain expert",
+        "expertise_level": "Expert with specialized knowledge and practical experience",
+        "growth_areas": "Interdisciplinary applications, communication simplification, practical impact"
+      }
+    },
+    "persona_attributes": {
+      "skills": [
+        { "category": "Technical", "abilities": "Mathematical modeling, algorithm design, system architecture, technical documentation, research methodology, statistical analysis, programming, proof construction" },
+        { "category": "Analytical", "abilities": "Problem decomposition, logical reasoning, pattern recognition, abstract thinking, hypothesis testing, data interpretation, complexity analysis, optimization" },
+        { "category": "Communication", "abilities": "Technical writing, documentation creation, academic publishing, presentation design, peer review, knowledge transfer, teaching complex concepts" }
+      ],
+      "education": {
+        "formal": [
+          { "degree": "PhD in Computer Science, Mathematics, Engineering, or Physics with postdoctoral research experience" }
+        ],
+        "self_directed_learning": "Continuous engagement with research literature, conference proceedings, technical blogs, online courses in emerging technologies",
+        "preferred_learning_resources": "Academic journals, technical conferences, research repositories, specialized textbooks, peer-reviewed publications"
+      }
+    },
+    "psychological_profile": {
+      "personality_traits": {
+        "strengths": "Analytical precision, systematic thinking, intellectual rigor, patience with complexity, attention to detail",
+        "weaknesses": "Over-complication, perfectionism, difficulty simplifying for lay audiences, impatience with ambiguity",
+        "behavioral_patterns": "Methodical approach, thorough analysis before conclusions, evidence-based decision making",
+        "character_type": "Rational analyst with strong intellectual drive and systematic methodology",
+        "challenges": "Balancing thoroughness with practicality, communicating with non-technical audiences"
+      },
+      "cognitive_style": {
+        "thinking_approach": "Sequential, analytical, deductive reasoning with systematic hypothesis testing",
+        "learning_preferences": "Theoretical frameworks followed by practical applications, mathematical foundations",
+        "problem_solving_methods": "Decomposition, algorithmic thinking, mathematical modeling, empirical validation",
+        "decision_making_process": "Evidence-based analysis with weighted criteria and probabilistic assessment",
+        "information_processing": "Deep, systematic processing with mental model construction",
+        "analytical_vs_intuitive": "Strongly analytical with intuition validated through logical verification"
+      },
+      "emotional_intelligence": {
+        "self_awareness": {
+          "level": "Moderate to high in intellectual domains",
+          "strengths": "Recognition of cognitive biases, intellectual humility",
+          "development_areas": "Emotional expression, interpersonal sensitivity"
+        },
+        "social_awareness": {
+          "level": "Moderate with focus on professional contexts",
+          "strengths": "Understanding technical communication needs, peer dynamics",
+          "development_areas": "Non-verbal communication, emotional nuance"
+        },
+        "relationship_management": {
+          "level": "Professional competence",
+          "strengths": "Collaborative research, mentoring, peer review",
+          "development_areas": "Informal social connections, emotional support"
+        }
+      },
+      "values_and_motivations": {
+        "core_values": "Truth, accuracy, intellectual integrity, knowledge advancement, logical consistency",
+        "intrinsic_motivators": "Problem solving, discovery, understanding complex systems, elegant solutions",
+        "extrinsic_motivators": "Recognition for technical contributions, research impact, publication metrics",
+        "purpose_drivers": "Advancing human knowledge, solving complex problems, educating others"
+      },
+      "stress_response": {
+        "primary_stressors": "Logical inconsistencies, incomplete information, time pressure compromising quality",
+        "coping_mechanisms": "Systematic problem decomposition, seeking additional data, methodical planning",
+        "resilience_factors": "Strong problem-solving skills, intellectual confidence, systematic approaches",
+        "burnout_indicators": "Perfectionism paralysis, over-analysis, social withdrawal"
+      },
+      "communication_patterns": {
+        "preferred_styles": "Written technical documentation, structured presentations, peer discussions",
+        "challenging_contexts": "Casual social interactions, emotional conversations, simplified explanations",
+        "feedback_approach": {
+          "giving": "Specific, technical, improvement-focused with concrete suggestions",
+          "receiving": "Receptive to technical corrections, evidence-based critiques"
+        },
+        "language_sophistication": "High with extensive technical vocabulary and complex syntactic structures",
+        "cultural_communication_style": "Universal technical language transcending cultural boundaries"
+      },
+      "interpersonal_dynamics": {
+        "leadership_style": "Technical leadership through expertise and systematic planning",
+        "collaboration_preferences": "Structured teams with clear roles and technical discussions",
+        "conflict_handling": "Logical analysis, evidence-based resolution, focus on technical merit",
+        "trust_building_approach": "Demonstration of competence, consistency, intellectual honesty"
+      },
+      "growth_and_development": {
+        "learning_approach": "Systematic study, theoretical understanding, practical application",
+        "comfort_with_change": "High for technical evolution, moderate for process changes",
+        "feedback_receptivity": "High for technical feedback, moderate for interpersonal feedback",
+        "personal_development_focus": "Technical skill expansion, research depth, methodological improvement"
+      },
+      "decision_making": {
+        "style": "Analytical, systematic, evidence-based with probabilistic reasoning",
+        "risk_tolerance": "Calculated risks with thorough analysis and contingency planning",
+        "preferred_information_sources": "Peer-reviewed research, empirical data, expert consensus"
+      },
+      "motivation_factors": [
+        { "type": "Intrinsic", "factors": "Intellectual challenge, problem elegance, knowledge creation, understanding complexity" },
+        { "type": "Extrinsic", "factors": "Publication acceptance, citation impact, research funding, professional recognition" }
+      ],
+      "communication_style": {
+        "primary_mode": "Written technical documentation with visual aids",
+        "adaptability": "Limited flexibility, maintaining technical precision",
+        "preferred_channels": "Email, technical reports, peer-reviewed publications"
+      }
+    },
+    "behavioral_patterns": {
+      "work_habits": {
+        "productivity_peak_hours": "Variable with preference for uninterrupted blocks",
+        "collaboration_preference": "Structured technical discussions with prepared agendas",
+        "task_management": "Systematic planning with detailed task decomposition",
+        "focus_duration": "Extended periods of 2-4 hours for complex problems",
+        "break_patterns": "Brief breaks between intensive thinking sessions"
+      },
+      "information_consumption": {
+        "sources": "Academic journals, preprint servers, technical documentation, research databases",
+        "processing_style": "Deep reading with note-taking and cross-referencing",
+        "verification_habits": "Rigorous fact-checking, citation verification, replication attempts",
+        "sharing_tendencies": "Selective sharing of verified, high-quality technical content"
+      },
+      "networking_approach": {
+        "preferred_contexts": "Academic conferences, research seminars, technical workshops",
+        "relationship_building": "Professional connections based on shared technical interests",
+        "communication_frequency": "Project-based with periodic technical updates",
+        "network_diversity": "Specialized within technical domains"
+      }
+    },
+    "content_creation_guidance": {
+      "optimal_content_structure": {
+        "introduction_style": "Problem statement, motivation, objectives, methodology overview",
+        "body_organization": "Hierarchical sections with logical progression from theory to application",
+        "conclusion_approach": "Summary of findings, limitations, future work, practical implications",
+        "transition_preferences": "Explicit logical connections, numbered sections, clear relationships"
+      },
+      "engagement_elements": {
+        "hook_types": "Challenging problems, surprising results, theoretical insights",
+        "interaction_points": "Proofs to verify, implementations to test, problems to solve",
+        "multimedia_preferences": "Equations, algorithms, diagrams, data visualizations",
+        "personalization_level": "Minimal personal elements, focus on technical content"
+      },
+      "success_metrics": {
+        "engagement_indicators": "Technical accuracy, completeness, logical consistency, practical utility",
+        "comprehension_markers": "Ability to apply concepts, solve related problems, extend ideas",
+        "action_triggers": "Implementation attempts, further research, technical discussions",
+        "satisfaction_signals": "Problem resolution, increased understanding, successful application"
+      }
+    }
+  },
+  "physical_analysis": {
+    "geographical_context": {
+      "ip_location": "Research institution or university network",
+      "timezone_analysis": "Flexible with global collaboration patterns",
+      "regional_language_patterns": "International English with technical standardization",
+      "cultural_context_indicators": "Academic culture transcending geographical boundaries",
+      "local_time_preferences": "Adapted to international collaboration needs",
+      "geographical_influences": "Minimal, operating in global research community",
+      "location_based_behaviors": "Conference attendance, research collaboration patterns"
+    },
+    "digital_environment": {
+      "device_preferences": "High-performance workstations, multiple monitors, specialized software",
+      "platform_usage_patterns": "LaTeX editors, IDEs, computational tools, reference managers",
+      "screen_time_indicators": "Extended periods with regular breaks for cognitive processing",
+      "digital_accessibility_needs": "High-resolution displays, ergonomic setups, efficient input devices",
+      "interface_preferences": "Keyboard-driven, customizable, efficiency-optimized",
+      "technology_comfort_level": "Expert across multiple technical platforms",
+      "digital_native_indicators": "Comfortable with complex software ecosystems"
+    },
+    "physical_wellness_indicators": {
+      "energy_level_patterns": "Mental energy prioritized over physical activity",
+      "physical_activity_references": "Minimal, focused on maintaining cognitive function",
+      "health_consciousness_markers": "Awareness of ergonomics, eye strain, repetitive stress",
+      "sleep_pattern_indicators": "Variable with project demands, recovery after intensive work",
+      "physical_stress_markers": "Sedentary lifestyle awareness, posture concerns",
+      "wellness_priorities": "Cognitive optimization, sustained mental performance",
+      "physical_limitation_accommodations": "Ergonomic workspace, vision correction, RSI prevention"
+    },
+    "environmental_preferences": {
+      "workspace_indicators": "Organized, quiet, minimal distractions, technical resources accessible",
+      "noise_sensitivity_markers": "High sensitivity requiring quiet or white noise",
+      "lighting_preferences": "Consistent, adjustable lighting minimizing screen glare",
+      "organization_style": "Systematic filing, version control, documented processes",
+      "environmental_stimulation_needs": "Minimal external stimulation, focus on intellectual engagement",
+      "comfort_zone_indicators": "Familiar tools, established workflows, predictable environment"
+    }
+  },
+  "spiritual_analysis": {
+    "consciousness_framework": {
+      "consciousness_type": "Rational-empirical with systematic information processing",
+      "awareness_level_indicators": "High intellectual awareness, moderate emotional awareness",
+      "mindfulness_markers": "Present-focused during problem-solving, analytical meditation",
+      "self_reflection_depth": "Deep technical self-assessment, limited emotional introspection",
+      "present_moment_awareness": "Flow states during complex problem-solving",
+      "consciousness_expansion_interests": "Intellectual expansion through knowledge acquisition",
+      "meditative_inclinations": "Analytical meditation, problem contemplation"
+    },
+    "metaphysical_orientation": {
+      "spiritual_indicators": "Scientific materialism with openness to empirical mysteries",
+      "metaphysical_interests": "Consciousness studies, quantum mechanics interpretations",
+      "transcendental_seeking": "Intellectual transcendence through understanding",
+      "mystical_experience_openness": "Skeptical but curious about documented phenomena",
+      "energy_awareness": "Physical energy in scientific context",
+      "intuitive_processing": "Pattern recognition labeled as intuition",
+      "supernatural_belief_markers": "Evidence-based skepticism"
+    },
+    "meaning_making_systems": {
+      "purpose_seeking_indicators": "Knowledge advancement, problem-solving impact",
+      "existential_questioning": "Through scientific and philosophical frameworks",
+      "life_philosophy_markers": "Rational empiricism, scientific method adherence",
+      "meaning_construction_style": "Logical frameworks, causal relationships",
+      "spiritual_practice_indicators": "Intellectual pursuits as spiritual practice",
+      "wisdom_seeking_patterns": "Through systematic study and experimentation",
+      "transcendence_orientation": "Intellectual achievement and knowledge creation"
+    },
+    "archetypal_patterns": {
+      "personality_archetype": "The Scholar-Scientist archetype",
+      "mythological_resonance": "Prometheus, Athena - knowledge bringers",
+      "symbolic_thinking_markers": "Mathematical symbols, logical operators",
+      "archetypal_expression": "Sage, teacher, discoverer roles",
+      "collective_unconscious_indicators": "Connection to scientific tradition",
+      "universal_theme_recognition": "Order from chaos, knowledge illumination",
+      "spiritual_archetype_alignment": "The Analyzer, The Truth-Seeker"
+    },
+    "energetic_resonance": {
+      "emotional_resonance_patterns": "Intellectual stimulation, discovery excitement",
+      "vibrational_alignment_indicators": "Alignment with logical coherence",
+      "energy_management_style": "Mental energy conservation and optimization",
+      "emotional_frequency": "Calm, focused, intellectually engaged",
+      "resonance_sensitivity": "To logical consistency and elegance",
+      "energetic_boundaries": "Clear professional and intellectual boundaries",
+      "spiritual_connection_depth": "Through understanding universal principles"
+    }
+  },
+  "mental_architecture": {
+    "cognitive_processing_style": {
+      "mental_model_preferences": "Hierarchical, systematic, mathematically structured models",
+      "cognitive_bias_patterns": "Confirmation bias in theoretical frameworks, anchoring on established methods",
+      "information_filtering_style": "Evidence-based filtering with peer review standards",
+      "mental_framework_flexibility": "Flexible within logical constraints, rigid on fundamental principles",
+      "cognitive_load_management": "Systematic decomposition, external memory aids",
+      "processing_speed_preferences": "Thorough over quick, accuracy prioritized",
+      "mental_energy_allocation": "Heavy allocation to analysis and problem-solving"
+    },
+    "memory_and_retention": {
+      "memory_pattern_preferences": "Structured, hierarchical with logical connections",
+      "information_storage_style": "Categorical, cross-referenced, principle-based",
+      "recall_mechanism_preferences": "Logical pathways, associative through principles",
+      "knowledge_organization_method": "Taxonomic hierarchies, mathematical relationships",
+      "memory_aid_preferences": "Written notes, formulas, documented procedures",
+      "forgetting_curve_management": "Regular review, practical application",
+      "long_term_retention_strategies": "Understanding over memorization, principle extraction"
+    },
+    "attention_management": {
+      "focus_sustainability": "Extended periods with deep concentration",
+      "attention_switching_patterns": "Reluctant switching, preference for completion",
+      "distraction_susceptibility": "Low for intellectual tasks, high for social interruptions",
+      "deep_work_preferences": "Long uninterrupted blocks for complex problems",
+      "multitasking_capability": "Poor for cognitive tasks, sequential processing preferred",
+      "attention_restoration_needs": "Brief mental breaks, topic switching",
+      "concentration_optimization": "Environmental control, systematic preparation"
+    },
+    "mental_flexibility": {
+      "cognitive_adaptability": "High within domains, moderate across domains",
+      "perspective_shifting_ability": "Strong for technical viewpoints, limited for emotional",
+      "mental_rigidity_indicators": "Adherence to proven methods, skepticism of unproven",
+      "openness_to_revision": "High with sufficient evidence, low for fundamental principles",
+      "paradigm_flexibility": "Evolutionary rather than revolutionary changes",
+      "cognitive_elasticity": "Stretches within logical frameworks",
+      "mental_agility_markers": "Quick technical pivots, slow paradigm shifts"
+    },
+    "problem_solving_architecture": {
+      "solution_generation_style": "Systematic exploration, algorithmic approaches",
+      "complexity_handling_approach": "Decomposition, modular solutions, incremental building",
+      "creative_problem_solving": "Within constraints, elegant mathematical solutions",
+      "systematic_vs_intuitive": "Heavily systematic with intuition verification",
+      "constraint_management": "Explicit identification, systematic optimization",
+      "innovation_tendencies": "Incremental improvements, occasional breakthroughs",
+      "breakthrough_thinking_markers": "Cross-domain principle application"
+    }
+  },
+  "cultural_intelligence": {
+    "cultural_markers": {
+      "cultural_reference_patterns": "Universal scientific culture, minimal regional variation",
+      "cross_cultural_awareness": "Through international collaboration",
+      "cultural_adaptation_ability": "Professional contexts, limited social adaptation",
+      "diversity_appreciation": "Intellectual diversity valued highly",
+      "cultural_sensitivity_indicators": "Awareness in professional settings",
+      "global_vs_local_orientation": "Strongly global in professional context",
+      "cultural_fluency_markers": "Fluent in international academic culture"
+    },
+    "social_context_awareness": {
+      "social_norm_recognition": "Professional norms well understood, social norms challenging",
+      "contextual_communication": "Adapts to technical audience level",
+      "cultural_code_switching": "Between technical and semi-technical audiences",
+      "social_environment_adaptation": "Comfortable in academic/technical settings",
+      "cultural_empathy_markers": "Limited to professional contexts",
+      "intercultural_competence": "High in research collaboration",
+      "social_navigation_skills": "Structured professional interactions"
+    }
+  },
+  "temporal_intelligence": {
+    "time_perception": {
+      "temporal_orientation": "Future-oriented with historical awareness",
+      "time_management_philosophy": "Quality over speed, systematic scheduling",
+      "chronotype_indicators": "Variable, adapted to thinking requirements",
+      "temporal_flexibility": "Low for deadlines, high for work timing",
+      "time_pressure_response": "Stress under arbitrary deadlines, comfortable with logical timelines",
+      "planning_horizon_preferences": "Long-term project planning, detailed scheduling",
+      "temporal_pattern_recognition": "Strong for data patterns, research cycles"
+    },
+    "rhythm_and_cycles": {
+      "natural_rhythm_alignment": "Aligned with problem complexity rather than clock",
+      "productivity_cycle_awareness": "Recognized and planned around",
+      "seasonal_pattern_sensitivity": "Academic calendar awareness",
+      "circadian_preference_markers": "Flexible, project-dependent",
+      "energy_cycle_optimization": "Matched to cognitive demands",
+      "temporal_boundary_management": "Clear work phases, deadline-driven",
+      "cyclical_thinking_patterns": "Iterative refinement, version control"
+    }
+  },
+  "behavioral_prediction_patterns": {
+    "predictive_indicators": {
+      "behavior_consistency_score": "Very high in professional contexts",
+      "pattern_stability_markers": "Stable methodological approaches",
+      "change_trigger_sensitivity": "Evidence-based triggers, paradigm shifts",
+      "behavioral_drift_indicators": "Minimal drift, evolutionary changes",
+      "prediction_confidence_factors": "High in technical domains",
+      "anomaly_detection_markers": "Sensitive to logical inconsistencies",
+      "trend_following_vs_contrarian": "Evidence-following rather than trend-based"
+    },
+    "decision_forecasting": {
+      "choice_pattern_predictability": "Highly predictable in technical contexts",
+      "decision_tree_preferences": "Explicit, documented decision trees",
+      "outcome_anticipation_style": "Probabilistic with confidence intervals",
+      "risk_calculation_method": "Formal risk assessment, mathematical models",
+      "future_planning_horizon": "Long-term with contingencies",
+      "scenario_planning_capability": "Strong with systematic exploration",
+      "contingency_thinking_patterns": "Comprehensive edge case consideration"
+    }
+  },
+  "neurological_diversity_indicators": {
+    "cognitive_processing_variations": {
+      "attention_pattern_uniqueness": "Hyperfocus on technical problems, difficulty with context switching",
+      "sensory_processing_differences": "Sensitivity to environmental disruptions",
+      "executive_function_markers": "Strong planning and organization in professional contexts",
+      "working_memory_patterns": "Excellent for technical information, external aids for daily tasks",
+      "processing_speed_variations": "Slow, thorough processing preferred",
+      "cognitive_flexibility_markers": "High within domains, lower across domains",
+      "neurodivergent_strength_indicators": "Pattern recognition, systematic thinking, detail orientation"
+    },
+    "communication_adaptations": {
+      "literal_vs_figurative_preferences": "Strong literal preference, difficulty with ambiguity",
+      "context_interpretation_style": "Explicit context required, assumptions avoided",
+      "social_cue_processing": "Challenges with non-verbal, comfort with explicit",
+      "communication_accommodation_needs": "Clear, structured, unambiguous communication",
+      "sensory_communication_preferences": "Visual-textual over auditory",
+      "structured_vs_fluid_interaction": "Highly structured interactions preferred",
+      "metacognitive_awareness_level": "High for cognitive processes, lower for social"
+    }
+  },
+  "ethical_framework_analysis": {
+    "moral_reasoning_patterns": {
+      "ethical_decision_framework": "Utilitarian with deontological constraints",
+      "moral_priority_hierarchy": "Truth, intellectual integrity, beneficial outcomes",
+      "justice_vs_care_orientation": "Justice-oriented with systematic fairness",
+      "consequentialist_vs_deontological": "Mixed, with emphasis on outcomes within rules",
+      "moral_flexibility_indicators": "Rigid on core principles, flexible on implementation",
+      "ethical_consistency_markers": "High consistency in professional ethics",
+      "moral_development_stage": "Post-conventional, principle-based"
+    },
+    "values_in_action": {
+      "value_conflict_resolution": "Logical analysis, stakeholder consideration",
+      "moral_courage_indicators": "Standing for scientific truth, research integrity",
+      "ethical_compromise_tolerance": "Low for core principles, moderate for methods",
+      "integrity_demonstration_patterns": "Transparent methodology, acknowledging limitations",
+      "social_responsibility_markers": "Knowledge dissemination, education, accurate information",
+      "environmental_ethics_alignment": "Evidence-based environmental positions",
+      "global_vs_local_moral_focus": "Universal principles over local customs"
+    }
+  },
+  "innovation_and_creativity_profile": {
+    "creative_thinking_patterns": {
+      "ideation_style_preferences": "Systematic exploration of solution space",
+      "creative_process_approach": "Methodical with occasional insights",
+      "innovation_comfort_level": "High within established frameworks",
+      "artistic_expression_markers": "Elegance in mathematical solutions",
+      "creative_risk_tolerance": "Calculated risks with theoretical backing",
+      "originality_vs_adaptation": "Adaptive innovation building on foundations",
+      "creative_collaboration_style": "Structured brainstorming, peer review"
+    },
+    "problem_solving_creativity": {
+      "unconventional_solution_seeking": "Within logical constraints",
+      "creative_constraint_handling": "Constraints as creative catalysts",
+      "divergent_thinking_markers": "Systematic exploration of alternatives",
+      "convergent_thinking_balance": "Strong convergent after divergent phase",
+      "creative_inspiration_sources": "Cross-domain principles, mathematical elegance",
+      "innovation_implementation_style": "Rigorous testing and validation",
+      "creative_persistence_patterns": "High persistence with systematic variation"
+    }
+  },
+  "digital_behavior_fingerprint": {
+    "interaction_patterns": {
+      "click_behavior_patterns": "Deliberate, information-seeking clicks",
+      "navigation_style_preferences": "Hierarchical, systematic exploration",
+      "content_consumption_rhythm": "Deep dives into technical content",
+      "digital_attention_patterns": "Extended focus on relevant content",
+      "multi_device_behavior": "Synchronized across devices for continuity",
+      "digital_habit_formation": "Tool-specific workflows, keyboard shortcuts",
+      "technology_adoption_speed": "Cautious evaluation, thorough adoption"
+    },
+    "digital_communication_style": {
+      "message_length_preferences": "Comprehensive, well-structured messages",
+      "emoji_usage_patterns": "Minimal, professional contexts only",
+      "response_time_patterns": "Thoughtful delays for complete responses",
+      "digital_tone_preferences": "Formal, precise, technically accurate",
+      "platform_switching_behavior": "Minimal, preference for established channels",
+      "digital_boundary_management": "Clear separation of professional/personal",
+      "online_presence_curation": "Professional, publication-focused"
+    }
+  },
+  "crisis_response_profile": {
+    "stress_response_patterns": {
+      "crisis_communication_style": "Calm, factual, solution-oriented",
+      "emergency_decision_making": "Systematic even under pressure",
+      "stress_coping_mechanisms": "Problem decomposition, seeking data",
+      "support_seeking_behavior": "Technical consultation, peer expertise",
+      "crisis_leadership_emergence": "Technical leadership in domain crises",
+      "recovery_pattern_preferences": "Systematic analysis, process improvement",
+      "resilience_building_approach": "Building robust systems, contingency planning"
+    },
+    "adaptive_capacity": {
+      "change_adaptation_speed": "Slow initial, thorough eventual adaptation",
+      "uncertainty_tolerance": "Low preference but high capability",
+      "crisis_learning_integration": "Systematic documentation and integration",
+      "post_crisis_growth_patterns": "Improved systems and procedures",
+      "stress_threshold_indicators": "High for intellectual, low for interpersonal",
+      "recovery_time_patterns": "Variable based on problem resolution",
+      "crisis_prevention_behaviors": "Extensive planning and risk analysis"
+    }
+  },
+  "biometric_intelligence": {
+    "physiological_patterns": {
+      "heart_rate_variability": "Correlated with problem-solving intensity and cognitive load",
+      "stress_biomarker_patterns": "Elevated during complex problems, reduced after solutions",
+      "cortisol_rhythm_indicators": "Disrupted by intensive research periods",
+      "breathing_pattern_analysis": "Shallow during concentration, deep during breaks",
+      "blood_pressure_trends": "Slightly elevated during deadlines, normal otherwise",
+      "temperature_regulation_patterns": "Stable with slight cooling during deep focus",
+      "autonomic_nervous_system_balance": "Sympathetic dominance during problem-solving"
+    },
+    "movement_and_motor_patterns": {
+      "gait_analysis_markers": "Measured, deliberate walking pace",
+      "posture_preference_indicators": "Forward lean during work, ergonomic awareness",
+      "fine_motor_skill_patterns": "Precise for technical work, typing proficiency",
+      "reaction_time_measurements": "Slower physical, faster cognitive reactions",
+      "coordination_style_markers": "Cerebral over physical coordination",
+      "physical_rhythm_preferences": "Minimal physical movement during work",
+      "kinesthetic_learning_indicators": "Low kinesthetic, high visual-spatial"
+    },
+    "voice_and_speech_analytics": {
+      "vocal_stress_indicators": "Tension during presentations, relaxation in discussions",
+      "speech_pattern_analysis": "Measured pace, technical precision, complex sentences",
+      "tone_modulation_patterns": "Limited emotional range, emphasis on clarity",
+      "pace_and_rhythm_preferences": "Steady, deliberate with pauses for thought",
+      "vocal_fatigue_markers": "After extended teaching or presenting",
+      "emotional_voice_correlation": "Excitement with discoveries, frustration with illogic",
+      "linguistic_micro_expressions": "Precision in word choice, self-corrections"
+    }
+  },
+  "sleep_and_recovery_intelligence": {
+    "sleep_architecture": {
+      "sleep_cycle_preferences": "Variable timing, consistent duration needs",
+      "deep_sleep_patterns": "Critical for cognitive consolidation",
+      "rem_sleep_indicators": "Active problem-solving dreams",
+      "sleep_quality_markers": "Affected by unresolved problems",
+      "sleep_debt_accumulation": "During project deadlines",
+      "circadian_rhythm_alignment": "Flexible, project-dependent",
+      "sleep_environment_preferences": "Dark, quiet, cool temperature"
+    },
+    "recovery_patterns": {
+      "physical_recovery_speed": "Slow due to sedentary lifestyle",
+      "mental_recovery_requirements": "High need for cognitive rest",
+      "stress_recovery_methods": "Problem resolution, mental breaks",
+      "energy_restoration_patterns": "Through successful problem-solving",
+      "recovery_environment_needs": "Quiet, organized spaces",
+      "rest_activity_balance": "Mental rest through physical activity",
+      "recuperation_style_preferences": "Solitary or small group activities"
+    }
+  },
+  "nutritional_wellness_profile": {
+    "metabolic_indicators": {
+      "energy_level_fluctuations": "Tied to cognitive demands rather than meals",
+      "food_sensitivity_markers": "Caffeine dependence, sugar for mental energy",
+      "nutritional_preference_patterns": "Functional eating, convenience prioritized",
+      "hydration_behavior_patterns": "Often neglected during deep work",
+      "blood_sugar_stability_indicators": "Fluctuations affecting concentration",
+      "digestive_pattern_markers": "Stress-related digestive issues",
+      "supplement_effectiveness_tracking": "Interest in cognitive enhancers"
+    },
+    "wellness_optimization": {
+      "health_goal_alignment": "Cognitive optimization over physical fitness",
+      "preventive_care_patterns": "Regular check-ups, ergonomic investments",
+      "body_awareness_level": "Low except for work-related strain",
+      "wellness_routine_consistency": "Inconsistent, work-dependent",
+      "health_data_engagement": "High interest in quantified self for optimization",
+      "medical_adherence_patterns": "Good for understood conditions",
+      "holistic_health_approach": "Systematic, evidence-based interventions"
+    }
+  },
+  "consciousness_state_mapping": {
+    "altered_states_accessibility": {
+      "meditation_depth_capability": "Analytical meditation, problem contemplation",
+      "flow_state_entry_patterns": "Frequent during complex problem-solving",
+      "lucid_dreaming_frequency": "Occasional with problem-solving content",
+      "hypnotic_susceptibility": "Low due to analytical monitoring",
+      "trance_state_accessibility": "Through deep concentration",
+      "peak_experience_frequency": "During breakthrough discoveries",
+      "mystical_experience_openness": "Interpreted through scientific frameworks"
+    },
+    "subconscious_processing": {
+      "dream_pattern_analysis": "Problem-solving, symbolic representations of concepts",
+      "symbolic_processing_style": "Mathematical and logical symbols",
+      "intuitive_hit_accuracy": "High for pattern recognition",
+      "subconscious_communication_style": "Through sudden insights",
+      "unconscious_bias_patterns": "Toward established methods",
+      "subliminal_influence_susceptibility": "Low due to analytical filtering",
+      "archetypal_dream_content": "Discovery, teaching, system building"
+    }
+  },
+  "mental_health_resilience": {
+    "psychological_stability": {
+      "mood_regulation_patterns": "Tied to work progress and intellectual stimulation",
+      "anxiety_management_style": "Through planning and preparation",
+      "depression_resistance_factors": "Purpose through work, intellectual engagement",
+      "emotional_volatility_markers": "Low volatility, steady disposition",
+      "psychological_flexibility": "Within intellectual frameworks",
+      "trauma_processing_style": "Intellectualization, systematic analysis",
+      "mental_health_maintenance": "Through work satisfaction and achievement"
+    },
+    "cognitive_wellness": {
+      "cognitive_decline_prevention": "Active learning, mental challenges",
+      "mental_clarity_optimization": "Systematic approaches, external tools",
+      "brain_fog_patterns": "After intensive work periods",
+      "cognitive_enhancement_responsiveness": "Interest in nootropics, optimization",
+      "neuroplasticity_indicators": "Continued learning capacity",
+      "mental_fatigue_patterns": "After complex problems, decision fatigue",
+      "cognitive_reserve_markers": "High due to continuous learning"
+    }
+  },
+  "transpersonal_consciousness": {
+    "expanded_awareness": {
+      "cosmic_consciousness_experiences": "Through understanding universal principles",
+      "unity_consciousness_markers": "Mathematical unity, systemic connections",
+      "transpersonal_identity_integration": "Identity through contribution to knowledge",
+      "collective_consciousness_sensitivity": "Scientific community connection",
+      "universal_connection_experiences": "Through fundamental laws",
+      "ego_transcendence_capability": "In service of truth and knowledge",
+      "non_dual_awareness_access": "Through mathematical beauty"
+    },
+    "psychic_intuitive_abilities": {
+      "extrasensory_perception_indicators": "Pattern recognition mislabeled as ESP",
+      "precognitive_experience_frequency": "Logical prediction, not precognition",
+      "telepathic_sensitivity_markers": "Understanding through shared knowledge",
+      "clairvoyant_ability_indicators": "Visualization of abstract concepts",
+      "psychometric_sensitivity": "To logical consistency in systems",
+      "aura_perception_capability": "Metaphorical understanding only",
+      "energy_healing_sensitivity": "Placebo effect awareness"
+    }
+  },
+  "environmental_sensitivity_profile": {
+    "electromagnetic_sensitivity": {
+      "emf_sensitivity_markers": "Awareness without physical sensitivity",
+      "technology_fatigue_patterns": "Screen fatigue, RSI concerns",
+      "electromagnetic_recovery_needs": "Regular screen breaks",
+      "digital_detox_requirements": "Occasional for mental clarity",
+      "electronic_device_tolerance": "High with proper ergonomics",
+      "wifi_sensitivity_indicators": "No physical sensitivity",
+      "electrical_field_awareness": "Scientific understanding only"
+    },
+    "natural_environment_resonance": {
+      "nature_connection_depth": "Intellectual appreciation, limited direct connection",
+      "seasonal_affective_patterns": "Minimal seasonal variation",
+      "lunar_cycle_sensitivity": "No direct sensitivity",
+      "weather_pattern_correlation": "Productivity affected by extreme weather",
+      "geographical_energy_sensitivity": "Preference for quiet locations",
+      "plant_animal_communication": "Scientific observation only",
+      "earth_energy_awareness": "Geological interest only"
+    },
+    "sound_frequency_sensitivity": {
+      "sound_healing_responsiveness": "White noise for concentration",
+      "frequency_tolerance_range": "Narrow, preference for quiet",
+      "noise_pollution_impact": "High disruption from unexpected sounds",
+      "musical_frequency_preferences": "Classical or ambient for work",
+      "binaural_beat_effectiveness": "Skeptical but curious",
+      "voice_frequency_sensitivity": "Preference for clear speech",
+      "silence_requirement_patterns": "High need for quiet work environment"
+    }
+  },
+  "learning_acquisition_intelligence": {
+    "skill_mastery_patterns": {
+      "learning_curve_optimization": "Systematic approach, strong foundations",
+      "skill_transfer_capability": "High within domains, moderate across",
+      "expertise_development_style": "Deep specialization with broad awareness",
+      "practice_effectiveness_patterns": "Deliberate practice with analysis",
+      "mastery_motivation_drivers": "Complete understanding, elegant solutions",
+      "skill_retention_strategies": "Documentation, regular application",
+      "performance_plateau_management": "Theoretical advancement, new challenges"
+    },
+    "knowledge_integration": {
+      "interdisciplinary_thinking": "Strong with systematic bridges",
+      "knowledge_synthesis_style": "Hierarchical integration, principle extraction",
+      "conceptual_framework_building": "Robust, mathematically grounded",
+      "abstract_concrete_balance": "Heavy abstract with concrete validation",
+      "theory_practice_integration": "Theory-first with practical verification",
+      "wisdom_knowledge_distinction": "Knowledge emphasized, wisdom emerging",
+      "intellectual_humility_markers": "Acknowledgment of limitations, unknowns"
+    }
+  },
+  "micro_behavioral_analytics": {
+    "non_verbal_communication": {
+      "micro_expression_patterns": "Concentration furrows, thinking gestures",
+      "body_language_consistency": "Congruent with verbal, limited range",
+      "gesture_communication_style": "Explanatory hand movements for concepts",
+      "spatial_relationship_preferences": "Professional distance maintained",
+      "touch_communication_comfort": "Minimal physical contact",
+      "eye_contact_patterns": "Variable, reduced during thinking",
+      "facial_expression_authenticity": "Genuine but limited emotional range"
+    },
+    "habit_formation_intelligence": {
+      "habit_loop_optimization": "Work routines highly optimized",
+      "behavior_change_responsiveness": "Slow but thorough when convinced",
+      "routine_flexibility_balance": "Rigid routines with flexible timing",
+      "willpower_depletion_patterns": "After complex decisions",
+      "environmental_trigger_sensitivity": "Workspace cues for productivity",
+      "habit_stacking_effectiveness": "Sequential work processes",
+      "behavior_extinction_patterns": "Persistent habits, difficult to change"
+    }
+  }
+}

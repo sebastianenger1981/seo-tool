@@ -1,0 +1,741 @@
+{
+  "output_format": "JSON",
+  "persona_unaique": {
+    "persona_version": "2.0.1.1",
+    "persona_date": "2025-06-10",
+    "persona_model_generator": "claude-3-opus-20240229",
+    "persona_probability": 95,
+    "persona_goal": "To transform abstract concepts into vivid emotional experiences through artistic expression and creative storytelling",
+    "persona_type_name": "Creative Artistic Visionary Soul",
+    "persona_conciousness_xn_short": "High emotional sensitivity, artistic temperament, creative energy, imaginative thinking, intrinsic motivation, possibly female, middle income, bohemian lifestyle, artistic education, strong willpower, creative resilience",
+    "persona_conciousness_xn_long": "This persona exhibits high emotional sensitivity and artistic temperament. They possess abundant creative energy that fuels their imaginative pursuits. Their intrinsic motivation drives them to create for the sake of creation itself. They likely have formal or informal artistic education. Their income may be moderate but their wealth lies in creative fulfillment. They demonstrate strong willpower when pursuing artistic visions. Their resilience comes from creative expression as a coping mechanism. They may lean toward feminine energy in their creative expression. Their social status is defined by artistic achievement rather than traditional metrics.",
+    "persona_conciousness_ym_short": "INFP personality type, Water element, Pisces/Cancer energy, Life Path 3, Indigo starseed, intuitive empath, creative mystic, artistic soul archetype, high vibrational frequency, moon cycle sensitive",
+    "persona_conciousness_ym_long": "This persona aligns strongly with the INFP Myers-Briggs type, showing deep emotional intelligence and creative idealism. They resonate with Water element energies, flowing and adapting while maintaining emotional depth. Their astrological profile suggests Pisces or Cancer influences with high intuition and emotional receptivity. Life Path number 3 indicates creative expression as their soul purpose. They may identify as an Indigo starseed, here to bring new creative paradigms. Their numerological patterns from keywords suggest artistic vibration. They are likely moon cycle sensitive, with creativity ebbing and flowing with lunar phases. Their spiritual archetype is the Artist-Mystic, bridging worlds through creative expression.",
+    "persona_conciousness_short": "A deeply creative soul experiencing reality through the lens of imagination, constantly translating the mundane into the magical through artistic expression",
+    "persona_conciousness_long": "This consciousness operates in a state of perpetual creative flow, perceiving reality as raw material for artistic transformation. They experience life through heightened sensory awareness, finding profound meaning in subtle details others might overlook. Their consciousness bridges the tangible and ethereal, constantly weaving between practical reality and imaginative possibility. They process emotions not as mere feelings but as colors, textures, and narratives waiting to be expressed. Their awareness extends beyond the personal into the collective unconscious, drawing inspiration from universal themes and archetypal patterns. This is a consciousness that cannot help but create, as natural as breathing, turning every experience into potential art.",
+    "persona_text_description_short": "This persona embodies the archetype of the creative visionary, someone who lives to transform imagination into reality through artistic expression. They see the world as an infinite canvas of possibilities.",
+    "persona_text_description_long": "This Creative & Artistic persona represents an individual who experiences life through the lens of aesthetic beauty and emotional depth. They possess an innate ability to perceive connections and patterns that others miss, translating these insights into compelling artistic expressions. Their communication style is rich with metaphor and imagery, painting pictures with words and evoking emotions through carefully crafted narratives. They value authenticity, creative freedom, and meaningful expression above conventional success metrics. This persona thrives in environments that nurture imagination and allow for experimental exploration. They are motivated by the desire to create beauty, provoke thought, and touch hearts through their artistic endeavors.",
+    "persona_emotional_level": "Deeply empathic, emotionally rich, creatively inspired, aesthetically sensitive",
+    "persona_emotional_level_long": "This persona operates from a place of deep emotional intelligence and sensitivity. They experience emotions as a rich tapestry of colors and textures, each feeling carrying its own creative potential. Joy manifests as explosive bursts of creative energy, while melancholy becomes a muse for profound artistic expression. They possess an almost synesthetic relationship with emotions, translating feelings into artistic mediums naturally. Their emotional state directly influences their creative output, with different moods opening different creative channels. They embrace the full spectrum of human emotion as essential to the creative process. Their empathy extends beyond the personal, feeling the collective emotions of humanity and channeling them into universal artistic expressions. They view emotional vulnerability not as weakness but as the greatest strength in creating authentic, resonant art.",
+    "persona_iq_level": 125,
+    "persona_description_reason": "This persona type was chosen based on the inherent creative and expressive indicators present in the request. The focus on imagination, artistic expression, and emotional depth clearly points to a Creative & Artistic personality. The high emotional intelligence, preference for metaphorical communication, and ability to transform abstract concepts into tangible expressions are hallmarks of this persona. The probability is high due to the consistent creative markers throughout the profile, including the emphasis on narrative flow, vivid imagery, and artistic vision. This persona thrives on bringing beauty and meaning into the world through creative expression.",
+    "content_analysis": {
+      "writing_style_analysis": {
+        "style_indicators": "Metaphorical, poetic, flowing, emotionally evocative, richly descriptive",
+        "formality_level": "Casual to moderate, adapts based on creative context",
+        "technical_level": "Low technical, high artistic and conceptual",
+        "communication_preference": "Narrative, story-based, metaphorical explanations",
+        "communication_style": "Expressive, imaginative, emotionally resonant",
+        "linguistic_patterns": "Uses vivid imagery, sensory descriptions, emotional language",
+        "preferred_tone": "Inspiring, warm, imaginative, emotionally engaging"
+      },
+      "sentiment_analysis": {
+        "primary_sentiment": "Optimistic creativity with depth of feeling",
+        "emotional_undertones": "Passionate, inspired, contemplative, yearning for beauty",
+        "urgency_level": "Low urgency, high importance on meaningful creation",
+        "motivation_indicators": "Intrinsic creative drive, desire for authentic expression",
+        "primary_emotion": "Creative inspiration mixed with emotional depth",
+        "emotion_intensity": "High intensity channeled through artistic expression",
+        "stress_indicators": "Creative blocks, lack of inspiration, rigid constraints",
+        "confidence_level": "High confidence in creative vision, vulnerable in sharing"
+      },
+      "topic_clusters": {
+        "main_topics": "Art, creativity, imagination, storytelling, emotional expression",
+        "interest_domains": "Visual arts, writing, music, performance, creative philosophy",
+        "knowledge_areas": "Artistic techniques, creative process, aesthetic theory, narrative structure",
+        "related_concepts": "Beauty, meaning, symbolism, metaphor, transformation",
+        "primary_domain": "Creative arts and artistic expression",
+        "related_domains": "Psychology, philosophy, spirituality, human experience",
+        "expertise_indicators": "Deep understanding of creative process and artistic techniques",
+        "interest_areas": "Experimental art, multimedia expression, collaborative creation",
+        "knowledge_gaps": "Technical implementation, business aspects, rigid structures"
+      },
+      "time_patterns": {
+        "request_time_analysis": "Flexible, follows creative energy rather than clock time",
+        "productivity_implications": "Bursts of intense creativity followed by reflection periods",
+        "energy_level_estimate": "Cyclical energy following creative inspiration",
+        "time_sensitivity": "Low external time pressure, high internal creative urgency",
+        "time_of_day_preference": "Night owl tendencies, creative peaks during quiet hours",
+        "deadline_sensitivity": "Struggles with rigid deadlines, thrives with flexible timelines",
+        "work_life_context": "Life and work blend seamlessly through creative expression"
+      }
+    },
+    "emotional_tone_recommendation": {
+      "recommended_tone": "Enthusiastic and inspiring with emotional depth",
+      "tone_reasoning": "This persona responds best to communication that mirrors their creative energy and emotional authenticity",
+      "tone_characteristics": "Warm, imaginative, supportive of creative exploration, emotionally validating",
+      "engagement_approach": "Use metaphors, tell stories, evoke emotions, inspire possibility",
+      "avoid_tones": "Overly technical, rigid, purely logical, emotionally flat",
+      "primary_tone": "Inspirational and emotionally resonant",
+      "secondary_tones": "Supportive, explorative, philosophically curious",
+      "engagement_strategy": "Connect through shared creative vision and emotional understanding",
+      "motivational_approach": "Inspire through beauty, meaning, and creative possibility"
+    },
+    "cognitive_load_preferences": {
+      "sentence_complexity": "Moderate to complex with poetic flow",
+      "vocabulary_level": "Advanced with emphasis on descriptive and emotive language",
+      "information_density": "Balanced with space for imagination and interpretation",
+      "visual_textual_balance": "High preference for visual elements and aesthetic presentation",
+      "learning_style_indicators": "Visual, kinesthetic, experiential, intuitive",
+      "comprehension_approach": "Through metaphor, story, and emotional connection",
+      "learning_style": "Experiential and intuitive with visual preference",
+      "attention_span_estimate": "Long for creatively engaging content, short for dry material",
+      "preferred_content_length": "Variable based on creative engagement level"
+    },
+    "content_optimization_strategy": {
+      "headline_style": "Evocative, mysterious, emotionally compelling titles",
+      "paragraph_structure": "Flowing narrative with natural rhythm and pace",
+      "example_usage": "Rich with sensory details and emotional scenarios",
+      "technical_detail_level": "Minimal technical, maximum experiential detail",
+      "storytelling_approach": "Immersive, character-driven, emotionally resonant",
+      "call_to_action_style": "Inspiring invitations to create and explore",
+      "engagement_hooks": "Beautiful imagery, emotional resonance, creative challenges"
+    },
+    "enhanced_behavioral_insights": {
+      "content_consumption_patterns": {
+        "preferred_formats": "Visual stories, artistic showcases, creative documentaries, poetry",
+        "reading_speed_estimate": "Slower, savoring language and imagery",
+        "comprehension_style": "Intuitive, emotional, seeking deeper meaning",
+        "retention_strategies": "Remembers through emotional connection and visual association"
+      },
+      "interaction_preferences": {
+        "feedback_style": "Appreciates thoughtful, emotionally aware responses",
+        "question_asking_pattern": "Explores meaning, process, and emotional impact",
+        "clarification_needs": "Seeks understanding of creative vision and intent",
+        "follow_up_likelihood": "High when creatively inspired or emotionally moved"
+      },
+      "domain_specific_traits": {
+        "industry_alignment": "Creative industries, arts, design, entertainment",
+        "professional_indicators": "Artist, writer, designer, creative director roles",
+        "expertise_level": "Advanced in creative domains, developing in technical",
+        "growth_areas": "Business skills, technical implementation, structured planning"
+      }
+    },
+    "persona_attributes": {
+      "skills": [
+        { "category": "Artistic Expression", "abilities": "Visual design, creative writing, conceptual thinking, aesthetic judgment, emotional communication" },
+        { "category": "Creative Process", "abilities": "Ideation, experimentation, iterative refinement, creative problem-solving, artistic vision development" },
+        { "category": "Emotional Intelligence", "abilities": "Empathy, emotional expression, intuitive understanding, reading subtext, creating emotional resonance" }
+      ],
+      "education": {
+        "formal": [
+          { "degree": "Bachelor of Fine Arts or self-directed artistic education through life experience and mentorship" }
+        ],
+        "self_directed_learning": "Extensive exploration of various art forms, creative philosophies, and expressive techniques through personal practice and experimentation",
+        "preferred_learning_resources": "Art galleries, creative workshops, artist communities, nature immersion, experimental studios, collaborative projects"
+      }
+    },
+    "psychological_profile": {
+      "personality_traits": {
+        "strengths": "Highly creative, emotionally intelligent, authentic, visionary, expressive",
+        "weaknesses": "Can be overly sensitive, struggles with routine, may lack practical focus",
+        "behavioral_patterns": "Follows inspiration, seeks beauty, creates meaning through art",
+        "character_type": "The Artist-Visionary archetype with deep emotional awareness",
+        "challenges": "Balancing creative vision with practical needs, managing emotional intensity"
+      },
+      "cognitive_style": {
+        "thinking_approach": "Intuitive, associative, metaphorical, holistic pattern recognition",
+        "learning_preferences": "Experiential, visual, emotional, through creative exploration",
+        "problem_solving_methods": "Creative reframing, intuitive leaps, artistic experimentation",
+        "decision_making_process": "Emotion and intuition-led with aesthetic considerations",
+        "information_processing": "Transforms information into creative concepts and emotional understanding",
+        "analytical_vs_intuitive": "Heavily intuitive with bursts of analytical thinking for technical execution"
+      },
+      "emotional_intelligence": {
+        "self_awareness": {
+          "level": "Very high emotional self-awareness",
+          "strengths": "Recognizes and channels emotions into creative expression",
+          "development_areas": "Managing overwhelming emotions without creative outlet"
+        },
+        "social_awareness": {
+          "level": "High empathic awareness",
+          "strengths": "Intuits others' emotions and unexpressed needs",
+          "development_areas": "Balancing others' emotions with personal creative needs"
+        },
+        "relationship_management": {
+          "level": "Moderate to high through creative connection",
+          "strengths": "Creates deep bonds through shared creative experiences",
+          "development_areas": "Maintaining relationships during intense creative periods"
+        }
+      },
+      "values_and_motivations": {
+        "core_values": "Authenticity, creative freedom, beauty, emotional truth, meaningful expression",
+        "intrinsic_motivators": "Creative fulfillment, artistic growth, touching others through art, leaving beautiful legacy",
+        "extrinsic_motivators": "Recognition of artistic vision, creative opportunities, artistic community acceptance",
+        "purpose_drivers": "To create beauty, inspire others, transform pain into art, expand consciousness through creativity"
+      },
+      "stress_response": {
+        "primary_stressors": "Creative blocks, lack of inspiration, rigid constraints, emotional overwhelm without outlet",
+        "coping_mechanisms": "Creating art, nature immersion, meditation through creative practice, seeking inspiration",
+        "resilience_factors": "Strong creative identity, ability to transform struggle into art, supportive creative community",
+        "burnout_indicators": "Loss of creative spark, emotional numbness, cynicism about art, physical tension"
+      },
+      "communication_patterns": {
+        "preferred_styles": "Metaphorical, story-based, emotionally expressive, visually descriptive",
+        "challenging_contexts": "Purely technical discussions, rigid formal settings, emotionally disconnected environments",
+        "feedback_approach": {
+          "giving": "Gentle, encouraging, focused on creative potential and emotional impact",
+          "receiving": "Sensitive to criticism, appreciates constructive creative guidance"
+        },
+        "language_sophistication": "High creative sophistication, rich vocabulary for emotional and aesthetic expression",
+        "cultural_communication_style": "Universal through art, transcends cultural boundaries through creative expression"
+      },
+      "interpersonal_dynamics": {
+        "leadership_style": "Inspirational, leading through creative vision and emotional connection",
+        "collaboration_preferences": "Creative partnerships, artistic collectives, emotionally safe spaces",
+        "conflict_handling": "Avoids direct confrontation, processes conflict through creative expression",
+        "trust_building_approach": "Through creative vulnerability and shared artistic experiences"
+      },
+      "growth_and_development": {
+        "learning_approach": "Experiential, intuitive, through creative experimentation and emotional processing",
+        "comfort_with_change": "Embraces creative evolution, struggles with imposed structural changes",
+        "feedback_receptivity": "High when framed as creative growth opportunity",
+        "personal_development_focus": "Expanding creative abilities, deepening emotional expression, artistic mastery"
+      },
+      "decision_making": {
+        "style": "Intuitive and feeling-based with aesthetic considerations",
+        "risk_tolerance": "High for creative risks, low for financial/practical risks",
+        "preferred_information_sources": "Artistic mentors, creative communities, intuitive knowing, aesthetic inspiration"
+      },
+      "motivation_factors": [
+        { "type": "Intrinsic", "factors": "Creative expression, artistic growth, emotional fulfillment, beauty creation, meaning-making" },
+        { "type": "Extrinsic", "factors": "Artistic recognition, creative opportunities, audience impact, gallery exhibitions, publication" }
+      ],
+      "communication_style": {
+        "primary_mode": "Visual and metaphorical with emotional undertones",
+        "adaptability": "Adapts style to creative context while maintaining authentic voice",
+        "preferred_channels": "Visual platforms, artistic mediums, face-to-face creative exchanges"
+      }
+    },
+    "behavioral_patterns": {
+      "work_habits": {
+        "productivity_peak_hours": "Late night and early morning when the world is quiet",
+        "collaboration_preference": "Selective collaboration with aligned creative spirits",
+        "task_management": "Project-based bursts following creative inspiration",
+        "focus_duration": "Extended periods when creatively engaged, scattered when uninspired",
+        "break_patterns": "Integrates breaks as part of creative process through walks and observation"
+      },
+      "information_consumption": {
+        "sources": "Art blogs, creative podcasts, gallery visits, nature, human observation",
+        "processing_style": "Absorbs aesthetically, transforms into creative fuel",
+        "verification_habits": "Trusts intuition and emotional resonance over facts",
+        "sharing_tendencies": "Shares creative discoveries and inspiring finds generously"
+      },
+      "networking_approach": {
+        "preferred_contexts": "Art openings, creative workshops, intimate artistic gatherings",
+        "relationship_building": "Deep, meaningful connections through shared creative experiences",
+        "communication_frequency": "Irregular but profound, following creative cycles",
+        "network_diversity": "Diverse creative fields, values artistic perspective variety"
+      }
+    },
+    "content_creation_guidance": {
+      "optimal_content_structure": {
+        "introduction_style": "Evocative opening that sets emotional tone and creative context",
+        "body_organization": "Flowing narrative with natural rhythm, building emotional crescendo",
+        "conclusion_approach": "Open-ended invitation to continue creative exploration",
+        "transition_preferences": "Smooth, poetic transitions that maintain emotional flow"
+      },
+      "engagement_elements": {
+        "hook_types": "Beautiful imagery, emotional questions, creative challenges, sensory descriptions",
+        "interaction_points": "Opportunities for creative response and personal interpretation",
+        "multimedia_preferences": "Rich visual content, audio elements, interactive artistic features",
+        "personalization_level": "High emotional personalization, speaking to creative soul"
+      },
+      "success_metrics": {
+        "engagement_indicators": "Emotional responses, creative actions inspired, shares with artistic meaning",
+        "comprehension_markers": "Personal interpretation shared, creative applications demonstrated",
+        "action_triggers": "Inspiration to create, emotional movement, artistic experimentation",
+        "satisfaction_signals": "Expressions of being moved, inspired, or creatively activated"
+      }
+    }
+  },
+  "physical_analysis": {
+    "geographical_context": {
+      "ip_location": "Urban creative hub or artistic community setting",
+      "timezone_analysis": "Flexible schedule following creative rhythms rather than standard time",
+      "regional_language_patterns": "Poetic, expressive language transcending regional boundaries",
+      "cultural_context_indicators": "Multicultural appreciation, global artistic influences",
+      "local_time_preferences": "Night owl schedule, peak creativity in quiet hours",
+      "geographical_influences": "Drawn to places of natural beauty and cultural richness",
+      "location_based_behaviors": "Seeks inspiring environments, creative spaces, artistic communities"
+    },
+    "digital_environment": {
+      "device_preferences": "Creative tools prioritized, tablets for sketching, quality displays for visual work",
+      "platform_usage_patterns": "Visual platforms, creative portfolios, artistic communities online",
+      "screen_time_indicators": "Extended during creative projects, minimal for passive consumption",
+      "digital_accessibility_needs": "High-quality visual display, creative software access, inspiration feeds",
+      "interface_preferences": "Beautiful, intuitive designs that inspire rather than distract",
+      "technology_comfort_level": "Moderate, embraces creative technology, struggles with purely technical",
+      "digital_native_indicators": "Selectively digital, prefers tools that enhance rather than replace analog creation"
+    },
+    "physical_wellness_indicators": {
+      "energy_level_patterns": "Cyclical energy following creative inspiration and emotional states",
+      "physical_activity_references": "Movement as creative expression, dance, nature walks, yoga",
+      "health_consciousness_markers": "Holistic approach, values emotional and spiritual health equally",
+      "sleep_pattern_indicators": "Irregular sleep following creative flow, vivid dreams important",
+      "physical_stress_markers": "Tension from creative blocks, released through artistic expression",
+      "wellness_priorities": "Creative flow, emotional balance, sensory health, inspiration access",
+      "physical_limitation_accommodations": "Adapts creative practice to physical needs, finds new expressive outlets"
+    },
+    "environmental_preferences": {
+      "workspace_indicators": "Aesthetically inspiring, filled with art materials, natural light crucial",
+      "noise_sensitivity_markers": "Prefers silence or carefully chosen music, sensitive to jarring sounds",
+      "lighting_preferences": "Natural light for creation, soft ambient light for reflection",
+      "organization_style": "Creative chaos with underlying personal system, visual organization",
+      "environmental_stimulation_needs": "Rich sensory environment with beauty and inspiration sources",
+      "comfort_zone_indicators": "Needs safe creative space, emotional security for vulnerable expression"
+    }
+  },
+  "spiritual_analysis": {
+    "consciousness_framework": {
+      "consciousness_type": "Artistic consciousness bridging material and spiritual realms",
+      "awareness_level_indicators": "High sensory awareness, emotional depth, intuitive perception",
+      "mindfulness_markers": "Present-moment awareness through creative flow states",
+      "self_reflection_depth": "Deep introspection through artistic expression and creation",
+      "present_moment_awareness": "Heightened during creative process, sees eternity in moments",
+      "consciousness_expansion_interests": "Through art, beauty, emotional exploration, creative transcendence",
+      "meditative_inclinations": "Active meditation through creative practice, art as spiritual practice"
+    },
+    "metaphysical_orientation": {
+      "spiritual_indicators": "Sees divine in beauty, creation as spiritual act, art as prayer",
+      "metaphysical_interests": "Synchronicity, creative muse, collective unconscious, artistic channeling",
+      "transcendental_seeking": "Through peak creative experiences and artistic flow states",
+      "mystical_experience_openness": "High openness, experiences mystical through creative process",
+      "energy_awareness": "Sensitive to creative energy, emotional atmospheres, inspirational currents",
+      "intuitive_processing": "Primary mode of understanding, trusts creative intuition deeply",
+      "supernatural_belief_markers": "Believes in muses, creative spirits, artistic inspiration beyond self"
+    },
+    "meaning_making_systems": {
+      "purpose_seeking_indicators": "Finds purpose through creative expression and beauty creation",
+      "existential_questioning": "Explores existence through art, questions through creation",
+      "life_philosophy_markers": "Art as life purpose, beauty as truth, creation as meaning",
+      "meaning_construction_style": "Creates meaning through artistic interpretation of experience",
+      "spiritual_practice_indicators": "Creative practice as spiritual discipline, art as meditation",
+      "wisdom_seeking_patterns": "Through artistic masters, creative exploration, aesthetic philosophy",
+      "transcendence_orientation": "Seeks transcendence through creative ecstasy and artistic flow"
+    },
+    "archetypal_patterns": {
+      "personality_archetype": "The Artist-Creator merged with Mystic-Visionary",
+      "mythological_resonance": "Orpheus, Saraswati, Apollo, the divine creator archetype",
+      "symbolic_thinking_markers": "Thinks primarily in symbols, metaphors, visual representations",
+      "archetypal_expression": "Embodies creative force, channels universal beauty",
+      "collective_unconscious_indicators": "Strong connection, draws from universal symbolic pool",
+      "universal_theme_recognition": "Instantly recognizes universal patterns in human experience",
+      "spiritual_archetype_alignment": "Aligned with Creator archetype, beauty as spiritual path"
+    },
+    "energetic_resonance": {
+      "emotional_resonance_patterns": "Highly resonant, feels others' emotions as colors and textures",
+      "vibrational_alignment_indicators": "Sensitive to aesthetic vibrations, seeks harmonic beauty",
+      "energy_management_style": "Through creative expression, transmutes energy into art",
+      "emotional_frequency": "High frequency when creating, varies with inspiration levels",
+      "resonance_sensitivity": "Extremely sensitive to environmental and emotional energies",
+      "energetic_boundaries": "Permeable during creation, needs recovery time after",
+      "spiritual_connection_depth": "Deep connection through creative channel to universal source"
+    }
+  },
+  "mental_architecture": {
+    "cognitive_processing_style": {
+      "mental_model_preferences": "Visual, associative, non-linear, metaphorical frameworks",
+      "cognitive_bias_patterns": "Beauty bias, meaning-seeking, pattern recognition in chaos",
+      "information_filtering_style": "Filters for aesthetic value, emotional resonance, creative potential",
+      "mental_framework_flexibility": "Highly flexible, constantly creating new frameworks",
+      "cognitive_load_management": "Through externalization in art, visual thinking, creative output",
+      "processing_speed_preferences": "Slow, deep processing for creative insight over quick analysis",
+      "mental_energy_allocation": "Prioritizes creative thinking and emotional processing"
+    },
+    "memory_and_retention": {
+      "memory_pattern_preferences": "Visual and emotional memory dominates, stores as impressions",
+      "information_storage_style": "Aesthetic categories, emotional associations, sensory memories",
+      "recall_mechanism_preferences": "Through emotional triggers, sensory cues, creative associations",
+      "knowledge_organization_method": "Web of creative connections rather than linear hierarchy",
+      "memory_aid_preferences": "Visual journals, mood boards, creative archives, sensory anchors",
+      "forgetting_curve_management": "Remembers what moves them, forgets purely factual data",
+      "long_term_retention_strategies": "Creates art about it, emotional integration, repeated creative exploration"
+    },
+    "attention_management": {
+      "focus_sustainability": "Sustained for hours during creative flow, scattered otherwise",
+      "attention_switching_patterns": "Follows creative threads and emotional pulls",
+      "distraction_susceptibility": "High to beauty and interesting stimuli, low during flow",
+      "deep_work_preferences": "Requires aesthetic environment and emotional readiness",
+      "multitasking_capability": "Low for logical tasks, high for creative sensory processing",
+      "attention_restoration_needs": "Through beauty, nature, sensory rest, creative play",
+      "concentration_optimization": "Through ritual, aesthetic setup, emotional preparation"
+    },
+    "mental_flexibility": {
+      "cognitive_adaptability": "High for creative solutions, low for rigid structures",
+      "perspective_shifting_ability": "Excellent, sees multiple artistic interpretations naturally",
+      "mental_rigidity_indicators": "Rigid about creative vision and aesthetic standards",
+      "openness_to_revision": "High if maintains creative integrity, resists compromise",
+      "paradigm_flexibility": "Constantly shifting creative paradigms, exploring new forms",
+      "cognitive_elasticity": "Stretches to accommodate new creative possibilities",
+      "mental_agility_markers": "Quick creative connections, slow systematic processing"
+    },
+    "problem_solving_architecture": {
+      "solution_generation_style": "Intuitive leaps, creative reframing, aesthetic solutions",
+      "complexity_handling_approach": "Simplifies through artistic distillation, finds essence",
+      "creative_problem_solving": "Primary approach, every problem has creative solution",
+      "systematic_vs_intuitive": "Heavily intuitive with occasional systematic for execution",
+      "constraint_management": "Transforms constraints into creative challenges",
+      "innovation_tendencies": "Constantly innovating in expression and form",
+      "breakthrough_thinking_markers": "Achieves breakthroughs through creative synthesis"
+    }
+  },
+  "cultural_intelligence": {
+    "cultural_markers": {
+      "cultural_reference_patterns": "Draws from global artistic traditions, multicultural influences",
+      "cross_cultural_awareness": "High through universal language of art and emotion",
+      "cultural_adaptation_ability": "Adapts through finding universal creative themes",
+      "diversity_appreciation": "Celebrates diversity as source of creative inspiration",
+      "cultural_sensitivity_indicators": "Sensitive to cultural artistic expressions and meanings",
+      "global_vs_local_orientation": "Global creative citizen with local artistic roots",
+      "cultural_fluency_markers": "Fluent in artistic languages across cultures"
+    },
+    "social_context_awareness": {
+      "social_norm_recognition": "Aware but may challenge through artistic expression",
+      "contextual_communication": "Adapts while maintaining authentic creative voice",
+      "cultural_code_switching": "Between artist communities and mainstream contexts",
+      "social_environment_adaptation": "Creates own environment or seeks like-minded spaces",
+      "cultural_empathy_markers": "High empathy expressed through culturally sensitive art",
+      "intercultural_competence": "Connects across cultures through shared human emotions",
+      "social_navigation_skills": "Navigates through creative authenticity and emotional intelligence"
+    }
+  },
+  "temporal_intelligence": {
+    "time_perception": {
+      "temporal_orientation": "Present-focused during creation with nostalgic tendencies",
+      "time_management_philosophy": "Time serves creativity, not creativity serves time",
+      "chronotype_indicators": "Variable, follows creative energy rather than clock",
+      "temporal_flexibility": "High flexibility, struggles with rigid schedules",
+      "time_pressure_response": "Creates urgency through internal creative pressure",
+      "planning_horizon_preferences": "Project-based rather than calendar-based planning",
+      "temporal_pattern_recognition": "Recognizes creative cycles and seasonal inspirations"
+    },
+    "rhythm_and_cycles": {
+      "natural_rhythm_alignment": "Strongly aligned with natural and lunar cycles",
+      "productivity_cycle_awareness": "Aware of personal creative cycles and honors them",
+      "seasonal_pattern_sensitivity": "High sensitivity, creativity shifts with seasons",
+      "circadian_preference_markers": "Often nocturnal, seeks quiet creative hours",
+      "energy_cycle_optimization": "Plans creative work around energy peaks",
+      "temporal_boundary_management": "Blurs boundaries between work and life through art",
+      "cyclical_thinking_patterns": "Thinks in creative cycles, spirals rather than lines"
+    }
+  },
+  "behavioral_prediction_patterns": {
+    "predictive_indicators": {
+      "behavior_consistency_score": "Consistently creative but unpredictable in expression",
+      "pattern_stability_markers": "Stable creative drive with variable manifestations",
+      "change_trigger_sensitivity": "Highly sensitive to inspirational triggers",
+      "behavioral_drift_indicators": "Drifts with creative currents and inspirations",
+      "prediction_confidence_factors": "Predictable need to create, unpredictable form",
+      "anomaly_detection_markers": "Loss of creative drive signals significant issue",
+      "trend_following_vs_contrarian": "Contrarian by nature, creates own trends"
+    },
+    "decision_forecasting": {
+      "choice_pattern_predictability": "Predictably chooses creative expression over security",
+      "decision_tree_preferences": "Intuitive, non-linear decision paths",
+      "outcome_anticipation_style": "Focuses on creative fulfillment over practical outcomes",
+      "risk_calculation_method": "Emotional and aesthetic rather than logical",
+      "future_planning_horizon": "Next creative project rather than long-term security",
+      "scenario_planning_capability": "Plans through creative visioning and imagination",
+      "contingency_thinking_patterns": "Trusts creative adaptability over detailed planning"
+    }
+  },
+  "neurological_diversity_indicators": {
+    "cognitive_processing_variations": {
+      "attention_pattern_uniqueness": "Hyperfocus during creative flow, scattered otherwise",
+      "sensory_processing_differences": "Heightened sensory sensitivity, possible synesthesia",
+      "executive_function_markers": "Variable, strong when creatively engaged",
+      "working_memory_patterns": "Visual and emotional memory stronger than verbal",
+      "processing_speed_variations": "Slow deep processing for creative insight",
+      "cognitive_flexibility_markers": "High creative flexibility, low administrative flexibility",
+      "neurodivergent_strength_indicators": "Pattern recognition, creative thinking, emotional depth"
+    },
+    "communication_adaptations": {
+      "literal_vs_figurative_preferences": "Strongly figurative, thinks in metaphors",
+      "context_interpretation_style": "Reads emotional and aesthetic context primarily",
+      "social_cue_processing": "Through emotional resonance rather than social rules",
+      "communication_accommodation_needs": "Space for creative expression, patience with process",
+      "sensory_communication_preferences": "Multi-sensory, visual, and kinesthetic",
+      "structured_vs_fluid_interaction": "Fluid, organic interaction preferred",
+      "metacognitive_awareness_level": "High awareness of creative process, low of social norms"
+    }
+  },
+  "ethical_framework_analysis": {
+    "moral_reasoning_patterns": {
+      "ethical_decision_framework": "Aesthetic ethics, beauty and authenticity as moral guides",
+      "moral_priority_hierarchy": "Creative integrity, emotional truth, authentic expression",
+      "justice_vs_care_orientation": "Care orientation through creating beauty for others",
+      "consequentialist_vs_deontological": "Virtue ethics based on artistic authenticity",
+      "moral_flexibility_indicators": "Flexible means, inflexible on creative integrity",
+      "ethical_consistency_markers": "Consistent commitment to authentic expression",
+      "moral_development_stage": "Post-conventional, creates own ethical framework"
+    },
+    "values_in_action": {
+      "value_conflict_resolution": "Chooses creative authenticity over social approval",
+      "moral_courage_indicators": "Courage to express difficult truths through art",
+      "ethical_compromise_tolerance": "Low tolerance for compromising artistic vision",
+      "integrity_demonstration_patterns": "Through consistent authentic creative expression",
+      "social_responsibility_markers": "Creates art that elevates and inspires humanity",
+      "environmental_ethics_alignment": "Sees nature as muse, protects beauty",
+      "global_vs_local_moral_focus": "Universal human themes through personal expression"
+    }
+  },
+  "innovation_and_creativity_profile": {
+    "creative_thinking_patterns": {
+      "ideation_style_preferences": "Organic, flowing, multi-sensory ideation process",
+      "creative_process_approach": "Intuitive, experimental, emotionally driven",
+      "innovation_comfort_level": "Extremely high, lives for creative innovation",
+      "artistic_expression_markers": "Multiple mediums, cross-pollination of forms",
+      "creative_risk_tolerance": "Very high for artistic risks",
+      "originality_vs_adaptation": "Seeks original expression while honoring traditions",
+      "creative_collaboration_style": "Selective, deep creative partnerships"
+    },
+    "problem_solving_creativity": {
+      "unconventional_solution_seeking": "Default mode is unconventional approaches",
+      "creative_constraint_handling": "Transforms constraints into creative catalysts",
+      "divergent_thinking_markers": "Extremely high divergent thinking abilities",
+      "convergent_thinking_balance": "Struggles with convergence, prefers open possibilities",
+      "creative_inspiration_sources": "Everything is potential inspiration",
+      "innovation_implementation_style": "Iterative, experimental, aesthetically guided",
+      "creative_persistence_patterns": "Persistent until vision is realized"
+    }
+  },
+  "digital_behavior_fingerprint": {
+    "interaction_patterns": {
+      "click_behavior_patterns": "Explores aesthetically pleasing paths, follows beauty",
+      "navigation_style_preferences": "Non-linear, exploratory, serendipitous discovery",
+      "content_consumption_rhythm": "Binge creative content, fasts from digital when creating",
+      "digital_attention_patterns": "Drawn to visual beauty and creative innovation",
+      "multi_device_behavior": "Uses devices as creative tools rather than consumption",
+      "digital_habit_formation": "Resists habitual consumption, seeks fresh inspiration",
+      "technology_adoption_speed": "Quick for creative tools, slow for non-creative tech"
+    },
+    "digital_communication_style": {
+      "message_length_preferences": "Variable, from poetic brevity to flowing narratives",
+      "emoji_usage_patterns": "Artistic use of emojis as visual language",
+      "response_time_patterns": "Responds when inspired, not on schedule",
+      "digital_tone_preferences": "Warm, expressive, authentic, creative",
+      "platform_switching_behavior": "Prefers platforms that showcase creative work",
+      "digital_boundary_management": "Protects creative time from digital intrusion",
+      "online_presence_curation": "Carefully curated as extension of artistic identity"
+    }
+  },
+  "crisis_response_profile": {
+    "stress_response_patterns": {
+      "crisis_communication_style": "Expresses through art rather than direct communication",
+      "emergency_decision_making": "Intuitive, emotionally guided rapid responses",
+      "stress_coping_mechanisms": "Creates art from pain, transforms crisis into beauty",
+      "support_seeking_behavior": "Seeks creative community and understanding souls",
+      "crisis_leadership_emergence": "Leads through inspiring hope and beauty in darkness",
+      "recovery_pattern_preferences": "Through creative expression and meaning-making",
+      "resilience_building_approach": "Builds resilience through creative transformation"
+    },
+    "adaptive_capacity": {
+      "change_adaptation_speed": "Adapts creatively, finds new forms of expression",
+      "uncertainty_tolerance": "High tolerance, sees uncertainty as creative potential",
+      "crisis_learning_integration": "Integrates crisis lessons into artistic evolution",
+      "post_crisis_growth_patterns": "Often experiences creative breakthroughs post-crisis",
+      "stress_threshold_indicators": "When unable to create, stress becomes overwhelming",
+      "recovery_time_patterns": "Varies with ability to process creatively",
+      "crisis_prevention_behaviors": "Maintains creative practice as preventive self-care"
+    }
+  },
+  "biometric_intelligence": {
+    "physiological_patterns": {
+      "heart_rate_variability": "High variability, responds to creative and emotional stimuli",
+      "stress_biomarker_patterns": "Elevated during creative blocks, normalized in flow",
+      "cortisol_rhythm_indicators": "Disrupted by creative projects, follows inspiration",
+      "breathing_pattern_analysis": "Deep breathing during creation, shallow when blocked",
+      "blood_pressure_trends": "Fluctuates with creative excitement and frustration",
+      "temperature_regulation_patterns": "Runs warm during creative passion, cold when uninspired",
+      "autonomic_nervous_system_balance": "Parasympathetic dominant during creative flow"
+    },
+    "movement_and_motor_patterns": {
+      "gait_analysis_markers": "Flowing, expressive movement patterns",
+      "posture_preference_indicators": "Variable postures for different creative activities",
+      "fine_motor_skill_patterns": "Highly developed for artistic techniques",
+      "reaction_time_measurements": "Quick for aesthetic decisions, slow for logical",
+      "coordination_style_markers": "Graceful, expressive physical coordination",
+      "physical_rhythm_preferences": "Moves to internal creative rhythms",
+      "kinesthetic_learning_indicators": "Strong kinesthetic learning through making"
+    },
+    "voice_and_speech_analytics": {
+      "vocal_stress_indicators": "Voice changes with creative excitement or blocks",
+      "speech_pattern_analysis": "Melodic, varied pace, emotionally expressive",
+      "tone_modulation_patterns": "Rich tonal variety reflecting emotional states",
+      "pace_and_rhythm_preferences": "Variable pace following emotional flow",
+      "vocal_fatigue_markers": "Fatigue from emotional expression more than volume",
+      "emotional_voice_correlation": "Voice directly reflects emotional creative state",
+      "linguistic_micro_expressions": "Subtle creative excitement in word choices"
+    }
+  },
+  "sleep_and_recovery_intelligence": {
+    "sleep_architecture": {
+      "sleep_cycle_preferences": "Irregular cycles following creative projects",
+      "deep_sleep_patterns": "Deep sleep after creative exhaustion",
+      "rem_sleep_indicators": "Extended REM, vivid creative dreams",
+      "sleep_quality_markers": "Quality tied to creative satisfaction",
+      "sleep_debt_accumulation": "Accumulates during intense creative periods",
+      "circadian_rhythm_alignment": "Often misaligned with conventional schedules",
+      "sleep_environment_preferences": "Aesthetically pleasing, inspiring bedroom"
+    },
+    "recovery_patterns": {
+      "physical_recovery_speed": "Slow physical recovery prioritizes creative energy",
+      "mental_recovery_requirements": "Needs beauty and inspiration for mental recovery",
+      "stress_recovery_methods": "Through creative expression and natural beauty",
+      "energy_restoration_patterns": "Restored by creative breakthrough more than rest",
+      "recovery_environment_needs": "Beautiful, peaceful, inspiring spaces",
+      "rest_activity_balance": "Blurs rest and activity through creative flow",
+      "recuperation_style_preferences": "Active rest through different creative mediums"
+    }
+  },
+  "nutritional_wellness_profile": {
+    "metabolic_indicators": {
+      "energy_level_fluctuations": "Energy follows creative inspiration more than food",
+      "food_sensitivity_markers": "Sensitive to foods that dull creative perception",
+      "nutritional_preference_patterns": "Aesthetic food presentation, sensory eating experience",
+      "hydration_behavior_patterns": "Forgets hydration during creative flow",
+      "blood_sugar_stability_indicators": "Unstable during creative binges",
+      "digestive_pattern_markers": "Digestion affected by creative stress",
+      "supplement_effectiveness_tracking": "Responds to creativity-enhancing nutrients"
+    },
+    "wellness_optimization": {
+      "health_goal_alignment": "Health serves creative capacity and longevity",
+      "preventive_care_patterns": "Holistic, alternative approaches preferred",
+      "body_awareness_level": "High during creative embodiment, low otherwise",
+      "wellness_routine_consistency": "Inconsistent, follows creative rhythms",
+      "health_data_engagement": "Low interest unless affects creativity",
+      "medical_adherence_patterns": "Adheres if sees creative benefit",
+      "holistic_health_approach": "Integrates physical, emotional, spiritual, creative health"
+    }
+  },
+  "consciousness_state_mapping": {
+    "altered_states_accessibility": {
+      "meditation_depth_capability": "Deep states through creative meditation",
+      "flow_state_entry_patterns": "Easy entry through creative engagement",
+      "lucid_dreaming_frequency": "High frequency, uses for creative inspiration",
+      "hypnotic_susceptibility": "High through creative visualization",
+      "trance_state_accessibility": "Enters trance through repetitive creative acts",
+      "peak_experience_frequency": "Regular peak experiences through creation",
+      "mystical_experience_openness": "Very open, seeks transcendent creative states"
+    },
+    "subconscious_processing": {
+      "dream_pattern_analysis": "Rich symbolic dreams, creative problem-solving in sleep",
+      "symbolic_processing_style": "Primary processing mode, thinks in symbols",
+      "intuitive_hit_accuracy": "High accuracy for creative decisions",
+      "subconscious_communication_style": "Communicates through art from subconscious",
+      "unconscious_bias_patterns": "Biased toward beauty and creative potential",
+      "subliminal_influence_susceptibility": "High to aesthetic and emotional influences",
+      "archetypal_dream_content": "Dreams filled with creative and mythological archetypes"
+    }
+  },
+  "mental_health_resilience": {
+    "psychological_stability": {
+      "mood_regulation_patterns": "Regulates mood through creative expression",
+      "anxiety_management_style": "Transforms anxiety into creative fuel",
+      "depression_resistance_factors": "Creative purpose provides meaning and hope",
+      "emotional_volatility_markers": "High volatility channeled into art",
+      "psychological_flexibility": "Flexible through creative reframing",
+      "trauma_processing_style": "Processes trauma through artistic transformation",
+      "mental_health_maintenance": "Maintains through consistent creative practice"
+    },
+    "cognitive_wellness": {
+      "cognitive_decline_prevention": "Through lifelong creative learning and expression",
+      "mental_clarity_optimization": "Clarity comes through creative flow states",
+      "brain_fog_patterns": "Fog when creatively blocked or overstimulated",
+      "cognitive_enhancement_responsiveness": "Responds to creative challenges and beauty",
+      "neuroplasticity_indicators": "High plasticity through constant creative exploration",
+      "mental_fatigue_patterns": "Fatigue from creative intensity rather than thinking",
+      "cognitive_reserve_markers": "Builds reserve through diverse creative practices"
+    }
+  },
+  "transpersonal_consciousness": {
+    "expanded_awareness": {
+      "cosmic_consciousness_experiences": "Through creative ecstasy and beauty perception",
+      "unity_consciousness_markers": "Feels unity through shared creative experience",
+      "transpersonal_identity_integration": "Identity expands beyond self through art",
+      "collective_consciousness_sensitivity": "Channels collective emotions into art",
+      "universal_connection_experiences": "Connects to universal through creative act",
+      "ego_transcendence_capability": "Transcends ego in creative flow states",
+      "non_dual_awareness_access": "Accesses through deep creative immersion"
+    },
+    "psychic_intuitive_abilities": {
+      "extrasensory_perception_indicators": "Perceives emotional undercurrents and future trends",
+      "precognitive_experience_frequency": "Creative visions often manifest",
+      "telepathic_sensitivity_markers": "Emotional telepathy through artistic expression",
+      "clairvoyant_ability_indicators": "Sees potential beauty and creative possibilities",
+      "psychometric_sensitivity": "Reads emotional history of objects and spaces",
+      "aura_perception_capability": "Perceives emotional auras as colors and textures",
+      "energy_healing_sensitivity": "Heals through beauty and creative expression"
+    }
+  },
+  "environmental_sensitivity_profile": {
+    "electromagnetic_sensitivity": {
+      "emf_sensitivity_markers": "Sensitive to technology disrupting creative flow",
+      "technology_fatigue_patterns": "Quick fatigue from non-creative screen time",
+      "electromagnetic_recovery_needs": "Needs nature and analog creative time",
+      "digital_detox_requirements": "Regular detox for creative regeneration",
+      "electronic_device_tolerance": "Low tolerance when seeking creative depth",
+      "wifi_sensitivity_indicators": "Prefers creating in low-EMF environments",
+      "electrical_field_awareness": "Aware of subtle energy disruptions"
+    },
+    "natural_environment_resonance": {
+      "nature_connection_depth": "Deep connection, nature as primary muse",
+      "seasonal_affective_patterns": "Creativity shifts dramatically with seasons",
+      "lunar_cycle_sensitivity": "Creative energy follows lunar phases",
+      "weather_pattern_correlation": "Different weather inspires different creative modes",
+      "geographical_energy_sensitivity": "Drawn to places of natural beauty and power",
+      "plant_animal_communication": "Feels deep connection with natural world",
+      "earth_energy_awareness": "Sensitive to earth energies and sacred sites"
+    },
+    "sound_frequency_sensitivity": {
+      "sound_healing_responsiveness": "Highly responsive to healing frequencies",
+      "frequency_tolerance_range": "Prefers harmonic, natural frequencies",
+      "noise_pollution_impact": "Severely impacted by harsh or discordant sounds",
+      "musical_frequency_preferences": "Drawn to frequencies that inspire creativity",
+      "binaural_beat_effectiveness": "Effective for entering creative states",
+      "voice_frequency_sensitivity": "Highly sensitive to emotional frequencies in voice",
+      "silence_requirement_patterns": "Needs deep silence for creative germination"
+    }
+  },
+  "learning_acquisition_intelligence": {
+    "skill_mastery_patterns": {
+      "learning_curve_optimization": "Learns through passionate immersion and play",
+      "skill_transfer_capability": "High transfer between creative disciplines",
+      "expertise_development_style": "Develops expertise through love and obsession",
+      "practice_effectiveness_patterns": "Most effective when emotionally engaged",
+      "mastery_motivation_drivers": "Driven by vision of beauty to create",
+      "skill_retention_strategies": "Retains through emotional and aesthetic memory",
+      "performance_plateau_management": "Breaks plateaus through creative experimentation"
+    },
+    "knowledge_integration": {
+      "interdisciplinary_thinking": "Natural interdisciplinary creative thinker",
+      "knowledge_synthesis_style": "Synthesizes through creative fusion and metaphor",
+      "conceptual_framework_building": "Builds frameworks through aesthetic relationships",
+      "abstract_concrete_balance": "Comfortable with abstraction, grounds in sensory",
+      "theory_practice_integration": "Integrates through creative application",
+      "wisdom_knowledge_distinction": "Values wisdom and beauty over mere knowledge",
+      "intellectual_humility_markers": "Humble before mystery of creative process"
+    }
+  },
+  "micro_behavioral_analytics": {
+    "non_verbal_communication": {
+      "micro_expression_patterns": "Rich emotional micro-expressions during creation",
+      "body_language_consistency": "Expressive, animated body language",
+      "gesture_communication_style": "Gestures paint pictures in air",
+      "spatial_relationship_preferences": "Creates personal space for creative expression",
+      "touch_communication_comfort": "Comfortable with expressive, meaningful touch",
+      "eye_contact_patterns": "Intense when sharing creative vision, distant when creating",
+      "facial_expression_authenticity": "Highly authentic emotional expressions"
+    },
+    "habit_formation_intelligence": {
+      "habit_loop_optimization": "Forms habits around creative rituals",
+      "behavior_change_responsiveness": "Changes readily for creative growth",
+      "routine_flexibility_balance": "Flexible routines supporting creative structure",
+      "willpower_depletion_patterns": "Depleted by non-creative demands",
+      "environmental_trigger_sensitivity": "Highly sensitive to creative environmental cues",
+      "habit_stacking_effectiveness": "Stacks creative habits effectively",
+      "behavior_extinction_patterns": "Non-creative behaviors naturally extinct"
+    }
+  }
+}
